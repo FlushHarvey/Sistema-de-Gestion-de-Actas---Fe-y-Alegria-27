@@ -1,0 +1,1187 @@
+('D:\\COLEGIOS\\FE Y ALEGRIA 27 SANTA LUCIA\\DOCUMENTOS IE\\ACTAS\\SISTEMA DE '
+ 'GESTION DE '
+ 'ACTAS\\Sistema-de-Gestion-de-Actas---Fe-y-Alegria-27\\build\\main\\main.pkg',
+ {'BINARY': True,
+  'DATA': True,
+  'EXECUTABLE': True,
+  'EXTENSION': True,
+  'PYMODULE': True,
+  'PYSOURCE': True,
+  'PYZ': False,
+  'SPLASH': True,
+  'SYMLINK': False},
+ [('pyi-contents-directory _internal', '', 'OPTION'),
+  ('PYZ-00.pyz',
+   'D:\\COLEGIOS\\FE Y ALEGRIA 27 SANTA LUCIA\\DOCUMENTOS IE\\ACTAS\\SISTEMA '
+   'DE GESTION DE '
+   'ACTAS\\Sistema-de-Gestion-de-Actas---Fe-y-Alegria-27\\build\\main\\PYZ-00.pyz',
+   'PYZ'),
+  ('struct',
+   'D:\\COLEGIOS\\FE Y ALEGRIA 27 SANTA LUCIA\\DOCUMENTOS IE\\ACTAS\\SISTEMA '
+   'DE GESTION DE '
+   'ACTAS\\Sistema-de-Gestion-de-Actas---Fe-y-Alegria-27\\build\\main\\localpycs\\struct.pyc',
+   'PYMODULE'),
+  ('pyimod01_archive',
+   'D:\\COLEGIOS\\FE Y ALEGRIA 27 SANTA LUCIA\\DOCUMENTOS IE\\ACTAS\\SISTEMA '
+   'DE GESTION DE '
+   'ACTAS\\Sistema-de-Gestion-de-Actas---Fe-y-Alegria-27\\build\\main\\localpycs\\pyimod01_archive.pyc',
+   'PYMODULE'),
+  ('pyimod02_importers',
+   'D:\\COLEGIOS\\FE Y ALEGRIA 27 SANTA LUCIA\\DOCUMENTOS IE\\ACTAS\\SISTEMA '
+   'DE GESTION DE '
+   'ACTAS\\Sistema-de-Gestion-de-Actas---Fe-y-Alegria-27\\build\\main\\localpycs\\pyimod02_importers.pyc',
+   'PYMODULE'),
+  ('pyimod03_ctypes',
+   'D:\\COLEGIOS\\FE Y ALEGRIA 27 SANTA LUCIA\\DOCUMENTOS IE\\ACTAS\\SISTEMA '
+   'DE GESTION DE '
+   'ACTAS\\Sistema-de-Gestion-de-Actas---Fe-y-Alegria-27\\build\\main\\localpycs\\pyimod03_ctypes.pyc',
+   'PYMODULE'),
+  ('pyimod04_pywin32',
+   'D:\\COLEGIOS\\FE Y ALEGRIA 27 SANTA LUCIA\\DOCUMENTOS IE\\ACTAS\\SISTEMA '
+   'DE GESTION DE '
+   'ACTAS\\Sistema-de-Gestion-de-Actas---Fe-y-Alegria-27\\build\\main\\localpycs\\pyimod04_pywin32.pyc',
+   'PYMODULE'),
+  ('pyiboot01_bootstrap',
+   'd:\\COLEGIOS\\FE Y ALEGRIA 27 SANTA LUCIA\\DOCUMENTOS IE\\ACTAS\\SISTEMA '
+   'DE GESTION DE '
+   'ACTAS\\Sistema-de-Gestion-de-Actas---Fe-y-Alegria-27\\.venv\\Lib\\site-packages\\PyInstaller\\loader\\pyiboot01_bootstrap.py',
+   'PYSOURCE'),
+  ('pyi_rth_inspect',
+   'D:\\COLEGIOS\\FE Y ALEGRIA 27 SANTA LUCIA\\DOCUMENTOS IE\\ACTAS\\SISTEMA '
+   'DE GESTION DE '
+   'ACTAS\\Sistema-de-Gestion-de-Actas---Fe-y-Alegria-27\\.venv\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_inspect.py',
+   'PYSOURCE'),
+  ('pyi_rth_pkgutil',
+   'D:\\COLEGIOS\\FE Y ALEGRIA 27 SANTA LUCIA\\DOCUMENTOS IE\\ACTAS\\SISTEMA '
+   'DE GESTION DE '
+   'ACTAS\\Sistema-de-Gestion-de-Actas---Fe-y-Alegria-27\\.venv\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_pkgutil.py',
+   'PYSOURCE'),
+  ('pyi_rth_multiprocessing',
+   'D:\\COLEGIOS\\FE Y ALEGRIA 27 SANTA LUCIA\\DOCUMENTOS IE\\ACTAS\\SISTEMA '
+   'DE GESTION DE '
+   'ACTAS\\Sistema-de-Gestion-de-Actas---Fe-y-Alegria-27\\.venv\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_multiprocessing.py',
+   'PYSOURCE'),
+  ('pyi_rth_cryptography_openssl',
+   'D:\\COLEGIOS\\FE Y ALEGRIA 27 SANTA LUCIA\\DOCUMENTOS IE\\ACTAS\\SISTEMA '
+   'DE GESTION DE '
+   'ACTAS\\Sistema-de-Gestion-de-Actas---Fe-y-Alegria-27\\.venv\\Lib\\site-packages\\_pyinstaller_hooks_contrib\\rthooks\\pyi_rth_cryptography_openssl.py',
+   'PYSOURCE'),
+  ('pyi_rth_setuptools',
+   'D:\\COLEGIOS\\FE Y ALEGRIA 27 SANTA LUCIA\\DOCUMENTOS IE\\ACTAS\\SISTEMA '
+   'DE GESTION DE '
+   'ACTAS\\Sistema-de-Gestion-de-Actas---Fe-y-Alegria-27\\.venv\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_setuptools.py',
+   'PYSOURCE'),
+  ('main',
+   'D:\\COLEGIOS\\FE Y ALEGRIA 27 SANTA LUCIA\\DOCUMENTOS IE\\ACTAS\\SISTEMA '
+   'DE GESTION DE '
+   'ACTAS\\Sistema-de-Gestion-de-Actas---Fe-y-Alegria-27\\backend\\main.py',
+   'PYSOURCE'),
+  ('pypdfium2_raw\\pdfium.dll',
+   'd:\\COLEGIOS\\FE Y ALEGRIA 27 SANTA LUCIA\\DOCUMENTOS IE\\ACTAS\\SISTEMA '
+   'DE GESTION DE '
+   'ACTAS\\Sistema-de-Gestion-de-Actas---Fe-y-Alegria-27\\.venv\\Lib\\site-packages\\pypdfium2_raw\\pdfium.dll',
+   'BINARY'),
+  ('python313.dll',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.2544.0_x64__qbz5n2kfra8p0\\python313.dll',
+   'BINARY'),
+  ('_lzma.pyd',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.2544.0_x64__qbz5n2kfra8p0\\DLLs\\_lzma.pyd',
+   'EXTENSION'),
+  ('_bz2.pyd',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.2544.0_x64__qbz5n2kfra8p0\\DLLs\\_bz2.pyd',
+   'EXTENSION'),
+  ('_decimal.pyd',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.2544.0_x64__qbz5n2kfra8p0\\DLLs\\_decimal.pyd',
+   'EXTENSION'),
+  ('_hashlib.pyd',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.2544.0_x64__qbz5n2kfra8p0\\DLLs\\_hashlib.pyd',
+   'EXTENSION'),
+  ('select.pyd',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.2544.0_x64__qbz5n2kfra8p0\\DLLs\\select.pyd',
+   'EXTENSION'),
+  ('_socket.pyd',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.2544.0_x64__qbz5n2kfra8p0\\DLLs\\_socket.pyd',
+   'EXTENSION'),
+  ('unicodedata.pyd',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.2544.0_x64__qbz5n2kfra8p0\\DLLs\\unicodedata.pyd',
+   'EXTENSION'),
+  ('_overlapped.pyd',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.2544.0_x64__qbz5n2kfra8p0\\DLLs\\_overlapped.pyd',
+   'EXTENSION'),
+  ('_ssl.pyd',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.2544.0_x64__qbz5n2kfra8p0\\DLLs\\_ssl.pyd',
+   'EXTENSION'),
+  ('_queue.pyd',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.2544.0_x64__qbz5n2kfra8p0\\DLLs\\_queue.pyd',
+   'EXTENSION'),
+  ('_ctypes.pyd',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.2544.0_x64__qbz5n2kfra8p0\\DLLs\\_ctypes.pyd',
+   'EXTENSION'),
+  ('_multiprocessing.pyd',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.2544.0_x64__qbz5n2kfra8p0\\DLLs\\_multiprocessing.pyd',
+   'EXTENSION'),
+  ('pyexpat.pyd',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.2544.0_x64__qbz5n2kfra8p0\\DLLs\\pyexpat.pyd',
+   'EXTENSION'),
+  ('_asyncio.pyd',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.2544.0_x64__qbz5n2kfra8p0\\DLLs\\_asyncio.pyd',
+   'EXTENSION'),
+  ('_wmi.pyd',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.2544.0_x64__qbz5n2kfra8p0\\DLLs\\_wmi.pyd',
+   'EXTENSION'),
+  ('_uuid.pyd',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.2544.0_x64__qbz5n2kfra8p0\\DLLs\\_uuid.pyd',
+   'EXTENSION'),
+  ('charset_normalizer\\md__mypyc.cp313-win_amd64.pyd',
+   'd:\\COLEGIOS\\FE Y ALEGRIA 27 SANTA LUCIA\\DOCUMENTOS IE\\ACTAS\\SISTEMA '
+   'DE GESTION DE '
+   'ACTAS\\Sistema-de-Gestion-de-Actas---Fe-y-Alegria-27\\.venv\\Lib\\site-packages\\charset_normalizer\\md__mypyc.cp313-win_amd64.pyd',
+   'EXTENSION'),
+  ('charset_normalizer\\md.cp313-win_amd64.pyd',
+   'd:\\COLEGIOS\\FE Y ALEGRIA 27 SANTA LUCIA\\DOCUMENTOS IE\\ACTAS\\SISTEMA '
+   'DE GESTION DE '
+   'ACTAS\\Sistema-de-Gestion-de-Actas---Fe-y-Alegria-27\\.venv\\Lib\\site-packages\\charset_normalizer\\md.cp313-win_amd64.pyd',
+   'EXTENSION'),
+  ('PIL\\_imagingft.cp313-win_amd64.pyd',
+   'd:\\COLEGIOS\\FE Y ALEGRIA 27 SANTA LUCIA\\DOCUMENTOS IE\\ACTAS\\SISTEMA '
+   'DE GESTION DE '
+   'ACTAS\\Sistema-de-Gestion-de-Actas---Fe-y-Alegria-27\\.venv\\Lib\\site-packages\\PIL\\_imagingft.cp313-win_amd64.pyd',
+   'EXTENSION'),
+  ('PIL\\_imaging.cp313-win_amd64.pyd',
+   'd:\\COLEGIOS\\FE Y ALEGRIA 27 SANTA LUCIA\\DOCUMENTOS IE\\ACTAS\\SISTEMA '
+   'DE GESTION DE '
+   'ACTAS\\Sistema-de-Gestion-de-Actas---Fe-y-Alegria-27\\.venv\\Lib\\site-packages\\PIL\\_imaging.cp313-win_amd64.pyd',
+   'EXTENSION'),
+  ('PIL\\_webp.cp313-win_amd64.pyd',
+   'd:\\COLEGIOS\\FE Y ALEGRIA 27 SANTA LUCIA\\DOCUMENTOS IE\\ACTAS\\SISTEMA '
+   'DE GESTION DE '
+   'ACTAS\\Sistema-de-Gestion-de-Actas---Fe-y-Alegria-27\\.venv\\Lib\\site-packages\\PIL\\_webp.cp313-win_amd64.pyd',
+   'EXTENSION'),
+  ('PIL\\_imagingtk.cp313-win_amd64.pyd',
+   'd:\\COLEGIOS\\FE Y ALEGRIA 27 SANTA LUCIA\\DOCUMENTOS IE\\ACTAS\\SISTEMA '
+   'DE GESTION DE '
+   'ACTAS\\Sistema-de-Gestion-de-Actas---Fe-y-Alegria-27\\.venv\\Lib\\site-packages\\PIL\\_imagingtk.cp313-win_amd64.pyd',
+   'EXTENSION'),
+  ('PIL\\_avif.cp313-win_amd64.pyd',
+   'd:\\COLEGIOS\\FE Y ALEGRIA 27 SANTA LUCIA\\DOCUMENTOS IE\\ACTAS\\SISTEMA '
+   'DE GESTION DE '
+   'ACTAS\\Sistema-de-Gestion-de-Actas---Fe-y-Alegria-27\\.venv\\Lib\\site-packages\\PIL\\_avif.cp313-win_amd64.pyd',
+   'EXTENSION'),
+  ('PIL\\_imagingcms.cp313-win_amd64.pyd',
+   'd:\\COLEGIOS\\FE Y ALEGRIA 27 SANTA LUCIA\\DOCUMENTOS IE\\ACTAS\\SISTEMA '
+   'DE GESTION DE '
+   'ACTAS\\Sistema-de-Gestion-de-Actas---Fe-y-Alegria-27\\.venv\\Lib\\site-packages\\PIL\\_imagingcms.cp313-win_amd64.pyd',
+   'EXTENSION'),
+  ('PIL\\_imagingmath.cp313-win_amd64.pyd',
+   'd:\\COLEGIOS\\FE Y ALEGRIA 27 SANTA LUCIA\\DOCUMENTOS IE\\ACTAS\\SISTEMA '
+   'DE GESTION DE '
+   'ACTAS\\Sistema-de-Gestion-de-Actas---Fe-y-Alegria-27\\.venv\\Lib\\site-packages\\PIL\\_imagingmath.cp313-win_amd64.pyd',
+   'EXTENSION'),
+  ('_elementtree.pyd',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.2544.0_x64__qbz5n2kfra8p0\\DLLs\\_elementtree.pyd',
+   'EXTENSION'),
+  ('cryptography\\hazmat\\bindings\\_rust.pyd',
+   'd:\\COLEGIOS\\FE Y ALEGRIA 27 SANTA LUCIA\\DOCUMENTOS IE\\ACTAS\\SISTEMA '
+   'DE GESTION DE '
+   'ACTAS\\Sistema-de-Gestion-de-Actas---Fe-y-Alegria-27\\.venv\\Lib\\site-packages\\cryptography\\hazmat\\bindings\\_rust.pyd',
+   'EXTENSION'),
+  ('_cffi_backend.cp313-win_amd64.pyd',
+   'd:\\COLEGIOS\\FE Y ALEGRIA 27 SANTA LUCIA\\DOCUMENTOS IE\\ACTAS\\SISTEMA '
+   'DE GESTION DE '
+   'ACTAS\\Sistema-de-Gestion-de-Actas---Fe-y-Alegria-27\\.venv\\Lib\\site-packages\\_cffi_backend.cp313-win_amd64.pyd',
+   'EXTENSION'),
+  ('_zoneinfo.pyd',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.2544.0_x64__qbz5n2kfra8p0\\DLLs\\_zoneinfo.pyd',
+   'EXTENSION'),
+  ('pydantic_core\\_pydantic_core.cp313-win_amd64.pyd',
+   'd:\\COLEGIOS\\FE Y ALEGRIA 27 SANTA LUCIA\\DOCUMENTOS IE\\ACTAS\\SISTEMA '
+   'DE GESTION DE '
+   'ACTAS\\Sistema-de-Gestion-de-Actas---Fe-y-Alegria-27\\.venv\\Lib\\site-packages\\pydantic_core\\_pydantic_core.cp313-win_amd64.pyd',
+   'EXTENSION'),
+  ('VCRUNTIME140.dll',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.2544.0_x64__qbz5n2kfra8p0\\VCRUNTIME140.dll',
+   'BINARY'),
+  ('libcrypto-3.dll',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.2544.0_x64__qbz5n2kfra8p0\\DLLs\\libcrypto-3.dll',
+   'BINARY'),
+  ('libssl-3.dll',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.2544.0_x64__qbz5n2kfra8p0\\DLLs\\libssl-3.dll',
+   'BINARY'),
+  ('libffi-8.dll',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.2544.0_x64__qbz5n2kfra8p0\\DLLs\\libffi-8.dll',
+   'BINARY'),
+  ('VCRUNTIME140_1.dll',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.2544.0_x64__qbz5n2kfra8p0\\VCRUNTIME140_1.dll',
+   'BINARY'),
+  ('python3.dll',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.2544.0_x64__qbz5n2kfra8p0\\python3.dll',
+   'BINARY'),
+  ('static\\app.js',
+   'D:\\COLEGIOS\\FE Y ALEGRIA 27 SANTA LUCIA\\DOCUMENTOS IE\\ACTAS\\SISTEMA '
+   'DE GESTION DE '
+   'ACTAS\\Sistema-de-Gestion-de-Actas---Fe-y-Alegria-27\\backend\\static\\app.js',
+   'DATA'),
+  ('static\\index.html',
+   'D:\\COLEGIOS\\FE Y ALEGRIA 27 SANTA LUCIA\\DOCUMENTOS IE\\ACTAS\\SISTEMA '
+   'DE GESTION DE '
+   'ACTAS\\Sistema-de-Gestion-de-Actas---Fe-y-Alegria-27\\backend\\static\\index.html',
+   'DATA'),
+  ('pypdfium2\\version.json',
+   'd:\\COLEGIOS\\FE Y ALEGRIA 27 SANTA LUCIA\\DOCUMENTOS IE\\ACTAS\\SISTEMA '
+   'DE GESTION DE '
+   'ACTAS\\Sistema-de-Gestion-de-Actas---Fe-y-Alegria-27\\.venv\\Lib\\site-packages\\pypdfium2\\version.json',
+   'DATA'),
+  ('pypdfium2_raw\\version.json',
+   'd:\\COLEGIOS\\FE Y ALEGRIA 27 SANTA LUCIA\\DOCUMENTOS IE\\ACTAS\\SISTEMA '
+   'DE GESTION DE '
+   'ACTAS\\Sistema-de-Gestion-de-Actas---Fe-y-Alegria-27\\.venv\\Lib\\site-packages\\pypdfium2_raw\\version.json',
+   'DATA'),
+  ('cryptography-46.0.5.dist-info\\INSTALLER',
+   'd:\\COLEGIOS\\FE Y ALEGRIA 27 SANTA LUCIA\\DOCUMENTOS IE\\ACTAS\\SISTEMA '
+   'DE GESTION DE '
+   'ACTAS\\Sistema-de-Gestion-de-Actas---Fe-y-Alegria-27\\.venv\\Lib\\site-packages\\cryptography-46.0.5.dist-info\\INSTALLER',
+   'DATA'),
+  ('cryptography-46.0.5.dist-info\\RECORD',
+   'd:\\COLEGIOS\\FE Y ALEGRIA 27 SANTA LUCIA\\DOCUMENTOS IE\\ACTAS\\SISTEMA '
+   'DE GESTION DE '
+   'ACTAS\\Sistema-de-Gestion-de-Actas---Fe-y-Alegria-27\\.venv\\Lib\\site-packages\\cryptography-46.0.5.dist-info\\RECORD',
+   'DATA'),
+  ('cryptography-46.0.5.dist-info\\licenses\\LICENSE',
+   'd:\\COLEGIOS\\FE Y ALEGRIA 27 SANTA LUCIA\\DOCUMENTOS IE\\ACTAS\\SISTEMA '
+   'DE GESTION DE '
+   'ACTAS\\Sistema-de-Gestion-de-Actas---Fe-y-Alegria-27\\.venv\\Lib\\site-packages\\cryptography-46.0.5.dist-info\\licenses\\LICENSE',
+   'DATA'),
+  ('cryptography-46.0.5.dist-info\\WHEEL',
+   'd:\\COLEGIOS\\FE Y ALEGRIA 27 SANTA LUCIA\\DOCUMENTOS IE\\ACTAS\\SISTEMA '
+   'DE GESTION DE '
+   'ACTAS\\Sistema-de-Gestion-de-Actas---Fe-y-Alegria-27\\.venv\\Lib\\site-packages\\cryptography-46.0.5.dist-info\\WHEEL',
+   'DATA'),
+  ('cryptography-46.0.5.dist-info\\METADATA',
+   'd:\\COLEGIOS\\FE Y ALEGRIA 27 SANTA LUCIA\\DOCUMENTOS IE\\ACTAS\\SISTEMA '
+   'DE GESTION DE '
+   'ACTAS\\Sistema-de-Gestion-de-Actas---Fe-y-Alegria-27\\.venv\\Lib\\site-packages\\cryptography-46.0.5.dist-info\\METADATA',
+   'DATA'),
+  ('cryptography-46.0.5.dist-info\\licenses\\LICENSE.BSD',
+   'd:\\COLEGIOS\\FE Y ALEGRIA 27 SANTA LUCIA\\DOCUMENTOS IE\\ACTAS\\SISTEMA '
+   'DE GESTION DE '
+   'ACTAS\\Sistema-de-Gestion-de-Actas---Fe-y-Alegria-27\\.venv\\Lib\\site-packages\\cryptography-46.0.5.dist-info\\licenses\\LICENSE.BSD',
+   'DATA'),
+  ('cryptography-46.0.5.dist-info\\licenses\\LICENSE.APACHE',
+   'd:\\COLEGIOS\\FE Y ALEGRIA 27 SANTA LUCIA\\DOCUMENTOS IE\\ACTAS\\SISTEMA '
+   'DE GESTION DE '
+   'ACTAS\\Sistema-de-Gestion-de-Actas---Fe-y-Alegria-27\\.venv\\Lib\\site-packages\\cryptography-46.0.5.dist-info\\licenses\\LICENSE.APACHE',
+   'DATA'),
+  ('pdfminer\\cmap\\B5pc-V.json.gz',
+   'd:\\COLEGIOS\\FE Y ALEGRIA 27 SANTA LUCIA\\DOCUMENTOS IE\\ACTAS\\SISTEMA '
+   'DE GESTION DE '
+   'ACTAS\\Sistema-de-Gestion-de-Actas---Fe-y-Alegria-27\\.venv\\Lib\\site-packages\\pdfminer\\cmap\\B5pc-V.json.gz',
+   'DATA'),
+  ('pdfminer\\cmap\\UniCNS-UCS2-V.json.gz',
+   'd:\\COLEGIOS\\FE Y ALEGRIA 27 SANTA LUCIA\\DOCUMENTOS IE\\ACTAS\\SISTEMA '
+   'DE GESTION DE '
+   'ACTAS\\Sistema-de-Gestion-de-Actas---Fe-y-Alegria-27\\.venv\\Lib\\site-packages\\pdfminer\\cmap\\UniCNS-UCS2-V.json.gz',
+   'DATA'),
+  ('pdfminer\\cmap\\UniKS-UTF16-V.json.gz',
+   'd:\\COLEGIOS\\FE Y ALEGRIA 27 SANTA LUCIA\\DOCUMENTOS IE\\ACTAS\\SISTEMA '
+   'DE GESTION DE '
+   'ACTAS\\Sistema-de-Gestion-de-Actas---Fe-y-Alegria-27\\.venv\\Lib\\site-packages\\pdfminer\\cmap\\UniKS-UTF16-V.json.gz',
+   'DATA'),
+  ('pdfminer\\cmap\\90msp-RKSJ-V.json.gz',
+   'd:\\COLEGIOS\\FE Y ALEGRIA 27 SANTA LUCIA\\DOCUMENTOS IE\\ACTAS\\SISTEMA '
+   'DE GESTION DE '
+   'ACTAS\\Sistema-de-Gestion-de-Actas---Fe-y-Alegria-27\\.venv\\Lib\\site-packages\\pdfminer\\cmap\\90msp-RKSJ-V.json.gz',
+   'DATA'),
+  ('pdfminer\\cmap\\UniJISX02132004-UTF32-V.json.gz',
+   'd:\\COLEGIOS\\FE Y ALEGRIA 27 SANTA LUCIA\\DOCUMENTOS IE\\ACTAS\\SISTEMA '
+   'DE GESTION DE '
+   'ACTAS\\Sistema-de-Gestion-de-Actas---Fe-y-Alegria-27\\.venv\\Lib\\site-packages\\pdfminer\\cmap\\UniJISX02132004-UTF32-V.json.gz',
+   'DATA'),
+  ('pdfminer\\cmap\\HKgccs-B5-H.json.gz',
+   'd:\\COLEGIOS\\FE Y ALEGRIA 27 SANTA LUCIA\\DOCUMENTOS IE\\ACTAS\\SISTEMA '
+   'DE GESTION DE '
+   'ACTAS\\Sistema-de-Gestion-de-Actas---Fe-y-Alegria-27\\.venv\\Lib\\site-packages\\pdfminer\\cmap\\HKgccs-B5-H.json.gz',
+   'DATA'),
+  ('pdfminer\\cmap\\HKdla-B5-V.json.gz',
+   'd:\\COLEGIOS\\FE Y ALEGRIA 27 SANTA LUCIA\\DOCUMENTOS IE\\ACTAS\\SISTEMA '
+   'DE GESTION DE '
+   'ACTAS\\Sistema-de-Gestion-de-Actas---Fe-y-Alegria-27\\.venv\\Lib\\site-packages\\pdfminer\\cmap\\HKdla-B5-V.json.gz',
+   'DATA'),
+  ('pdfminer\\cmap\\90ms-RKSJ-H.json.gz',
+   'd:\\COLEGIOS\\FE Y ALEGRIA 27 SANTA LUCIA\\DOCUMENTOS IE\\ACTAS\\SISTEMA '
+   'DE GESTION DE '
+   'ACTAS\\Sistema-de-Gestion-de-Actas---Fe-y-Alegria-27\\.venv\\Lib\\site-packages\\pdfminer\\cmap\\90ms-RKSJ-H.json.gz',
+   'DATA'),
+  ('pdfminer\\cmap\\HKscs-B5-H.json.gz',
+   'd:\\COLEGIOS\\FE Y ALEGRIA 27 SANTA LUCIA\\DOCUMENTOS IE\\ACTAS\\SISTEMA '
+   'DE GESTION DE '
+   'ACTAS\\Sistema-de-Gestion-de-Actas---Fe-y-Alegria-27\\.venv\\Lib\\site-packages\\pdfminer\\cmap\\HKscs-B5-H.json.gz',
+   'DATA'),
+  ('pdfminer\\cmap\\HKdla-B5-H.json.gz',
+   'd:\\COLEGIOS\\FE Y ALEGRIA 27 SANTA LUCIA\\DOCUMENTOS IE\\ACTAS\\SISTEMA '
+   'DE GESTION DE '
+   'ACTAS\\Sistema-de-Gestion-de-Actas---Fe-y-Alegria-27\\.venv\\Lib\\site-packages\\pdfminer\\cmap\\HKdla-B5-H.json.gz',
+   'DATA'),
+  ('pdfminer\\cmap\\GBK-EUC-H.json.gz',
+   'd:\\COLEGIOS\\FE Y ALEGRIA 27 SANTA LUCIA\\DOCUMENTOS IE\\ACTAS\\SISTEMA '
+   'DE GESTION DE '
+   'ACTAS\\Sistema-de-Gestion-de-Actas---Fe-y-Alegria-27\\.venv\\Lib\\site-packages\\pdfminer\\cmap\\GBK-EUC-H.json.gz',
+   'DATA'),
+  ('pdfminer\\cmap\\90pv-RKSJ-V.json.gz',
+   'd:\\COLEGIOS\\FE Y ALEGRIA 27 SANTA LUCIA\\DOCUMENTOS IE\\ACTAS\\SISTEMA '
+   'DE GESTION DE '
+   'ACTAS\\Sistema-de-Gestion-de-Actas---Fe-y-Alegria-27\\.venv\\Lib\\site-packages\\pdfminer\\cmap\\90pv-RKSJ-V.json.gz',
+   'DATA'),
+  ('pdfminer\\cmap\\78-RKSJ-V.json.gz',
+   'd:\\COLEGIOS\\FE Y ALEGRIA 27 SANTA LUCIA\\DOCUMENTOS IE\\ACTAS\\SISTEMA '
+   'DE GESTION DE '
+   'ACTAS\\Sistema-de-Gestion-de-Actas---Fe-y-Alegria-27\\.venv\\Lib\\site-packages\\pdfminer\\cmap\\78-RKSJ-V.json.gz',
+   'DATA'),
+  ('pdfminer\\cmap\\UniJIS2004-UTF8-H.json.gz',
+   'd:\\COLEGIOS\\FE Y ALEGRIA 27 SANTA LUCIA\\DOCUMENTOS IE\\ACTAS\\SISTEMA '
+   'DE GESTION DE '
+   'ACTAS\\Sistema-de-Gestion-de-Actas---Fe-y-Alegria-27\\.venv\\Lib\\site-packages\\pdfminer\\cmap\\UniJIS2004-UTF8-H.json.gz',
+   'DATA'),
+  ('pdfminer\\cmap\\Hankaku-H.json.gz',
+   'd:\\COLEGIOS\\FE Y ALEGRIA 27 SANTA LUCIA\\DOCUMENTOS IE\\ACTAS\\SISTEMA '
+   'DE GESTION DE '
+   'ACTAS\\Sistema-de-Gestion-de-Actas---Fe-y-Alegria-27\\.venv\\Lib\\site-packages\\pdfminer\\cmap\\Hankaku-H.json.gz',
+   'DATA'),
+  ('pdfminer\\cmap\\CNS2-H.json.gz',
+   'd:\\COLEGIOS\\FE Y ALEGRIA 27 SANTA LUCIA\\DOCUMENTOS IE\\ACTAS\\SISTEMA '
+   'DE GESTION DE '
+   'ACTAS\\Sistema-de-Gestion-de-Actas---Fe-y-Alegria-27\\.venv\\Lib\\site-packages\\pdfminer\\cmap\\CNS2-H.json.gz',
+   'DATA'),
+  ('pdfminer\\cmap\\UniJISX0213-UTF32-V.json.gz',
+   'd:\\COLEGIOS\\FE Y ALEGRIA 27 SANTA LUCIA\\DOCUMENTOS IE\\ACTAS\\SISTEMA '
+   'DE GESTION DE '
+   'ACTAS\\Sistema-de-Gestion-de-Actas---Fe-y-Alegria-27\\.venv\\Lib\\site-packages\\pdfminer\\cmap\\UniJISX0213-UTF32-V.json.gz',
+   'DATA'),
+  ('pdfminer\\cmap\\GBpc-EUC-H.json.gz',
+   'd:\\COLEGIOS\\FE Y ALEGRIA 27 SANTA LUCIA\\DOCUMENTOS IE\\ACTAS\\SISTEMA '
+   'DE GESTION DE '
+   'ACTAS\\Sistema-de-Gestion-de-Actas---Fe-y-Alegria-27\\.venv\\Lib\\site-packages\\pdfminer\\cmap\\GBpc-EUC-H.json.gz',
+   'DATA'),
+  ('pdfminer\\cmap\\KSCms-UHC-V.json.gz',
+   'd:\\COLEGIOS\\FE Y ALEGRIA 27 SANTA LUCIA\\DOCUMENTOS IE\\ACTAS\\SISTEMA '
+   'DE GESTION DE '
+   'ACTAS\\Sistema-de-Gestion-de-Actas---Fe-y-Alegria-27\\.venv\\Lib\\site-packages\\pdfminer\\cmap\\KSCms-UHC-V.json.gz',
+   'DATA'),
+  ('pdfminer\\cmap\\90pv-RKSJ-H.json.gz',
+   'd:\\COLEGIOS\\FE Y ALEGRIA 27 SANTA LUCIA\\DOCUMENTOS IE\\ACTAS\\SISTEMA '
+   'DE GESTION DE '
+   'ACTAS\\Sistema-de-Gestion-de-Actas---Fe-y-Alegria-27\\.venv\\Lib\\site-packages\\pdfminer\\cmap\\90pv-RKSJ-H.json.gz',
+   'DATA'),
+  ('pdfminer\\cmap\\HKdlb-B5-V.json.gz',
+   'd:\\COLEGIOS\\FE Y ALEGRIA 27 SANTA LUCIA\\DOCUMENTOS IE\\ACTAS\\SISTEMA '
+   'DE GESTION DE '
+   'ACTAS\\Sistema-de-Gestion-de-Actas---Fe-y-Alegria-27\\.venv\\Lib\\site-packages\\pdfminer\\cmap\\HKdlb-B5-V.json.gz',
+   'DATA'),
+  ('pdfminer\\cmap\\B5-V.json.gz',
+   'd:\\COLEGIOS\\FE Y ALEGRIA 27 SANTA LUCIA\\DOCUMENTOS IE\\ACTAS\\SISTEMA '
+   'DE GESTION DE '
+   'ACTAS\\Sistema-de-Gestion-de-Actas---Fe-y-Alegria-27\\.venv\\Lib\\site-packages\\pdfminer\\cmap\\B5-V.json.gz',
+   'DATA'),
+  ('pdfminer\\cmap\\RKSJ-H.json.gz',
+   'd:\\COLEGIOS\\FE Y ALEGRIA 27 SANTA LUCIA\\DOCUMENTOS IE\\ACTAS\\SISTEMA '
+   'DE GESTION DE '
+   'ACTAS\\Sistema-de-Gestion-de-Actas---Fe-y-Alegria-27\\.venv\\Lib\\site-packages\\pdfminer\\cmap\\RKSJ-H.json.gz',
+   'DATA'),
+  ('pdfminer\\cmap\\ETenms-B5-V.json.gz',
+   'd:\\COLEGIOS\\FE Y ALEGRIA 27 SANTA LUCIA\\DOCUMENTOS IE\\ACTAS\\SISTEMA '
+   'DE GESTION DE '
+   'ACTAS\\Sistema-de-Gestion-de-Actas---Fe-y-Alegria-27\\.venv\\Lib\\site-packages\\pdfminer\\cmap\\ETenms-B5-V.json.gz',
+   'DATA'),
+  ('pdfminer\\cmap\\Katakana-V.json.gz',
+   'd:\\COLEGIOS\\FE Y ALEGRIA 27 SANTA LUCIA\\DOCUMENTOS IE\\ACTAS\\SISTEMA '
+   'DE GESTION DE '
+   'ACTAS\\Sistema-de-Gestion-de-Actas---Fe-y-Alegria-27\\.venv\\Lib\\site-packages\\pdfminer\\cmap\\Katakana-V.json.gz',
+   'DATA'),
+  ('pdfminer\\cmap\\UniGB-UTF32-H.json.gz',
+   'd:\\COLEGIOS\\FE Y ALEGRIA 27 SANTA LUCIA\\DOCUMENTOS IE\\ACTAS\\SISTEMA '
+   'DE GESTION DE '
+   'ACTAS\\Sistema-de-Gestion-de-Actas---Fe-y-Alegria-27\\.venv\\Lib\\site-packages\\pdfminer\\cmap\\UniGB-UTF32-H.json.gz',
+   'DATA'),
+  ('pdfminer\\cmap\\UniCNS-UTF16-V.json.gz',
+   'd:\\COLEGIOS\\FE Y ALEGRIA 27 SANTA LUCIA\\DOCUMENTOS IE\\ACTAS\\SISTEMA '
+   'DE GESTION DE '
+   'ACTAS\\Sistema-de-Gestion-de-Actas---Fe-y-Alegria-27\\.venv\\Lib\\site-packages\\pdfminer\\cmap\\UniCNS-UTF16-V.json.gz',
+   'DATA'),
+  ('pdfminer\\cmap\\Ext-RKSJ-H.json.gz',
+   'd:\\COLEGIOS\\FE Y ALEGRIA 27 SANTA LUCIA\\DOCUMENTOS IE\\ACTAS\\SISTEMA '
+   'DE GESTION DE '
+   'ACTAS\\Sistema-de-Gestion-de-Actas---Fe-y-Alegria-27\\.venv\\Lib\\site-packages\\pdfminer\\cmap\\Ext-RKSJ-H.json.gz',
+   'DATA'),
+  ('pdfminer\\cmap\\Katakana-H.json.gz',
+   'd:\\COLEGIOS\\FE Y ALEGRIA 27 SANTA LUCIA\\DOCUMENTOS IE\\ACTAS\\SISTEMA '
+   'DE GESTION DE '
+   'ACTAS\\Sistema-de-Gestion-de-Actas---Fe-y-Alegria-27\\.venv\\Lib\\site-packages\\pdfminer\\cmap\\Katakana-H.json.gz',
+   'DATA'),
+  ('pdfminer\\cmap\\CNS1-H.json.gz',
+   'd:\\COLEGIOS\\FE Y ALEGRIA 27 SANTA LUCIA\\DOCUMENTOS IE\\ACTAS\\SISTEMA '
+   'DE GESTION DE '
+   'ACTAS\\Sistema-de-Gestion-de-Actas---Fe-y-Alegria-27\\.venv\\Lib\\site-packages\\pdfminer\\cmap\\CNS1-H.json.gz',
+   'DATA'),
+  ('pdfminer\\cmap\\UniKS-UCS2-V.json.gz',
+   'd:\\COLEGIOS\\FE Y ALEGRIA 27 SANTA LUCIA\\DOCUMENTOS IE\\ACTAS\\SISTEMA '
+   'DE GESTION DE '
+   'ACTAS\\Sistema-de-Gestion-de-Actas---Fe-y-Alegria-27\\.venv\\Lib\\site-packages\\pdfminer\\cmap\\UniKS-UCS2-V.json.gz',
+   'DATA'),
+  ('pdfminer\\cmap\\UniCNS-UTF32-V.json.gz',
+   'd:\\COLEGIOS\\FE Y ALEGRIA 27 SANTA LUCIA\\DOCUMENTOS IE\\ACTAS\\SISTEMA '
+   'DE GESTION DE '
+   'ACTAS\\Sistema-de-Gestion-de-Actas---Fe-y-Alegria-27\\.venv\\Lib\\site-packages\\pdfminer\\cmap\\UniCNS-UTF32-V.json.gz',
+   'DATA'),
+  ('pdfminer\\cmap\\KSCms-UHC-HW-V.json.gz',
+   'd:\\COLEGIOS\\FE Y ALEGRIA 27 SANTA LUCIA\\DOCUMENTOS IE\\ACTAS\\SISTEMA '
+   'DE GESTION DE '
+   'ACTAS\\Sistema-de-Gestion-de-Actas---Fe-y-Alegria-27\\.venv\\Lib\\site-packages\\pdfminer\\cmap\\KSCms-UHC-HW-V.json.gz',
+   'DATA'),
+  ('pdfminer\\cmap\\ETen-B5-V.json.gz',
+   'd:\\COLEGIOS\\FE Y ALEGRIA 27 SANTA LUCIA\\DOCUMENTOS IE\\ACTAS\\SISTEMA '
+   'DE GESTION DE '
+   'ACTAS\\Sistema-de-Gestion-de-Actas---Fe-y-Alegria-27\\.venv\\Lib\\site-packages\\pdfminer\\cmap\\ETen-B5-V.json.gz',
+   'DATA'),
+  ('pdfminer\\cmap\\GBT-EUC-V.json.gz',
+   'd:\\COLEGIOS\\FE Y ALEGRIA 27 SANTA LUCIA\\DOCUMENTOS IE\\ACTAS\\SISTEMA '
+   'DE GESTION DE '
+   'ACTAS\\Sistema-de-Gestion-de-Actas---Fe-y-Alegria-27\\.venv\\Lib\\site-packages\\pdfminer\\cmap\\GBT-EUC-V.json.gz',
+   'DATA'),
+  ('pdfminer\\cmap\\HKscs-B5-V.json.gz',
+   'd:\\COLEGIOS\\FE Y ALEGRIA 27 SANTA LUCIA\\DOCUMENTOS IE\\ACTAS\\SISTEMA '
+   'DE GESTION DE '
+   'ACTAS\\Sistema-de-Gestion-de-Actas---Fe-y-Alegria-27\\.venv\\Lib\\site-packages\\pdfminer\\cmap\\HKscs-B5-V.json.gz',
+   'DATA'),
+  ('pdfminer\\cmap\\GBT-H.json.gz',
+   'd:\\COLEGIOS\\FE Y ALEGRIA 27 SANTA LUCIA\\DOCUMENTOS IE\\ACTAS\\SISTEMA '
+   'DE GESTION DE '
+   'ACTAS\\Sistema-de-Gestion-de-Actas---Fe-y-Alegria-27\\.venv\\Lib\\site-packages\\pdfminer\\cmap\\GBT-H.json.gz',
+   'DATA'),
+  ('pdfminer\\cmap\\WP-Symbol-V.json.gz',
+   'd:\\COLEGIOS\\FE Y ALEGRIA 27 SANTA LUCIA\\DOCUMENTOS IE\\ACTAS\\SISTEMA '
+   'DE GESTION DE '
+   'ACTAS\\Sistema-de-Gestion-de-Actas---Fe-y-Alegria-27\\.venv\\Lib\\site-packages\\pdfminer\\cmap\\WP-Symbol-V.json.gz',
+   'DATA'),
+  ('pdfminer\\cmap\\UniJIS2004-UTF32-V.json.gz',
+   'd:\\COLEGIOS\\FE Y ALEGRIA 27 SANTA LUCIA\\DOCUMENTOS IE\\ACTAS\\SISTEMA '
+   'DE GESTION DE '
+   'ACTAS\\Sistema-de-Gestion-de-Actas---Fe-y-Alegria-27\\.venv\\Lib\\site-packages\\pdfminer\\cmap\\UniJIS2004-UTF32-V.json.gz',
+   'DATA'),
+  ('pdfminer\\cmap\\UniJIS-UTF8-H.json.gz',
+   'd:\\COLEGIOS\\FE Y ALEGRIA 27 SANTA LUCIA\\DOCUMENTOS IE\\ACTAS\\SISTEMA '
+   'DE GESTION DE '
+   'ACTAS\\Sistema-de-Gestion-de-Actas---Fe-y-Alegria-27\\.venv\\Lib\\site-packages\\pdfminer\\cmap\\UniJIS-UTF8-H.json.gz',
+   'DATA'),
+  ('pdfminer\\cmap\\83pv-RKSJ-V.json.gz',
+   'd:\\COLEGIOS\\FE Y ALEGRIA 27 SANTA LUCIA\\DOCUMENTOS IE\\ACTAS\\SISTEMA '
+   'DE GESTION DE '
+   'ACTAS\\Sistema-de-Gestion-de-Actas---Fe-y-Alegria-27\\.venv\\Lib\\site-packages\\pdfminer\\cmap\\83pv-RKSJ-V.json.gz',
+   'DATA'),
+  ('pdfminer\\cmap\\UniJISX02132004-UTF32-H.json.gz',
+   'd:\\COLEGIOS\\FE Y ALEGRIA 27 SANTA LUCIA\\DOCUMENTOS IE\\ACTAS\\SISTEMA '
+   'DE GESTION DE '
+   'ACTAS\\Sistema-de-Gestion-de-Actas---Fe-y-Alegria-27\\.venv\\Lib\\site-packages\\pdfminer\\cmap\\UniJISX02132004-UTF32-H.json.gz',
+   'DATA'),
+  ('pdfminer\\cmap\\GBKp-EUC-H.json.gz',
+   'd:\\COLEGIOS\\FE Y ALEGRIA 27 SANTA LUCIA\\DOCUMENTOS IE\\ACTAS\\SISTEMA '
+   'DE GESTION DE '
+   'ACTAS\\Sistema-de-Gestion-de-Actas---Fe-y-Alegria-27\\.venv\\Lib\\site-packages\\pdfminer\\cmap\\GBKp-EUC-H.json.gz',
+   'DATA'),
+  ('pdfminer\\cmap\\RKSJ-V.json.gz',
+   'd:\\COLEGIOS\\FE Y ALEGRIA 27 SANTA LUCIA\\DOCUMENTOS IE\\ACTAS\\SISTEMA '
+   'DE GESTION DE '
+   'ACTAS\\Sistema-de-Gestion-de-Actas---Fe-y-Alegria-27\\.venv\\Lib\\site-packages\\pdfminer\\cmap\\RKSJ-V.json.gz',
+   'DATA'),
+  ('pdfminer\\cmap\\UniKS-UTF8-H.json.gz',
+   'd:\\COLEGIOS\\FE Y ALEGRIA 27 SANTA LUCIA\\DOCUMENTOS IE\\ACTAS\\SISTEMA '
+   'DE GESTION DE '
+   'ACTAS\\Sistema-de-Gestion-de-Actas---Fe-y-Alegria-27\\.venv\\Lib\\site-packages\\pdfminer\\cmap\\UniKS-UTF8-H.json.gz',
+   'DATA'),
+  ('pdfminer\\cmap\\to-unicode-Adobe-Japan1.json.gz',
+   'd:\\COLEGIOS\\FE Y ALEGRIA 27 SANTA LUCIA\\DOCUMENTOS IE\\ACTAS\\SISTEMA '
+   'DE GESTION DE '
+   'ACTAS\\Sistema-de-Gestion-de-Actas---Fe-y-Alegria-27\\.venv\\Lib\\site-packages\\pdfminer\\cmap\\to-unicode-Adobe-Japan1.json.gz',
+   'DATA'),
+  ('pdfminer\\cmap\\Ext-H.json.gz',
+   'd:\\COLEGIOS\\FE Y ALEGRIA 27 SANTA LUCIA\\DOCUMENTOS IE\\ACTAS\\SISTEMA '
+   'DE GESTION DE '
+   'ACTAS\\Sistema-de-Gestion-de-Actas---Fe-y-Alegria-27\\.venv\\Lib\\site-packages\\pdfminer\\cmap\\Ext-H.json.gz',
+   'DATA'),
+  ('pdfminer\\cmap\\UniGB-UTF16-V.json.gz',
+   'd:\\COLEGIOS\\FE Y ALEGRIA 27 SANTA LUCIA\\DOCUMENTOS IE\\ACTAS\\SISTEMA '
+   'DE GESTION DE '
+   'ACTAS\\Sistema-de-Gestion-de-Actas---Fe-y-Alegria-27\\.venv\\Lib\\site-packages\\pdfminer\\cmap\\UniGB-UTF16-V.json.gz',
+   'DATA'),
+  ('pdfminer\\cmap\\GBTpc-EUC-V.json.gz',
+   'd:\\COLEGIOS\\FE Y ALEGRIA 27 SANTA LUCIA\\DOCUMENTOS IE\\ACTAS\\SISTEMA '
+   'DE GESTION DE '
+   'ACTAS\\Sistema-de-Gestion-de-Actas---Fe-y-Alegria-27\\.venv\\Lib\\site-packages\\pdfminer\\cmap\\GBTpc-EUC-V.json.gz',
+   'DATA'),
+  ('pdfminer\\cmap\\GBT-V.json.gz',
+   'd:\\COLEGIOS\\FE Y ALEGRIA 27 SANTA LUCIA\\DOCUMENTOS IE\\ACTAS\\SISTEMA '
+   'DE GESTION DE '
+   'ACTAS\\Sistema-de-Gestion-de-Actas---Fe-y-Alegria-27\\.venv\\Lib\\site-packages\\pdfminer\\cmap\\GBT-V.json.gz',
+   'DATA'),
+  ('pdfminer\\cmap\\Add-RKSJ-H.json.gz',
+   'd:\\COLEGIOS\\FE Y ALEGRIA 27 SANTA LUCIA\\DOCUMENTOS IE\\ACTAS\\SISTEMA '
+   'DE GESTION DE '
+   'ACTAS\\Sistema-de-Gestion-de-Actas---Fe-y-Alegria-27\\.venv\\Lib\\site-packages\\pdfminer\\cmap\\Add-RKSJ-H.json.gz',
+   'DATA'),
+  ('pdfminer\\cmap\\Add-V.json.gz',
+   'd:\\COLEGIOS\\FE Y ALEGRIA 27 SANTA LUCIA\\DOCUMENTOS IE\\ACTAS\\SISTEMA '
+   'DE GESTION DE '
+   'ACTAS\\Sistema-de-Gestion-de-Actas---Fe-y-Alegria-27\\.venv\\Lib\\site-packages\\pdfminer\\cmap\\Add-V.json.gz',
+   'DATA'),
+  ('pdfminer\\cmap\\Hiragana-V.json.gz',
+   'd:\\COLEGIOS\\FE Y ALEGRIA 27 SANTA LUCIA\\DOCUMENTOS IE\\ACTAS\\SISTEMA '
+   'DE GESTION DE '
+   'ACTAS\\Sistema-de-Gestion-de-Actas---Fe-y-Alegria-27\\.venv\\Lib\\site-packages\\pdfminer\\cmap\\Hiragana-V.json.gz',
+   'DATA'),
+  ('pdfminer\\cmap\\GBT-EUC-H.json.gz',
+   'd:\\COLEGIOS\\FE Y ALEGRIA 27 SANTA LUCIA\\DOCUMENTOS IE\\ACTAS\\SISTEMA '
+   'DE GESTION DE '
+   'ACTAS\\Sistema-de-Gestion-de-Actas---Fe-y-Alegria-27\\.venv\\Lib\\site-packages\\pdfminer\\cmap\\GBT-EUC-H.json.gz',
+   'DATA'),
+  ('pdfminer\\cmap\\NWP-V.json.gz',
+   'd:\\COLEGIOS\\FE Y ALEGRIA 27 SANTA LUCIA\\DOCUMENTOS IE\\ACTAS\\SISTEMA '
+   'DE GESTION DE '
+   'ACTAS\\Sistema-de-Gestion-de-Actas---Fe-y-Alegria-27\\.venv\\Lib\\site-packages\\pdfminer\\cmap\\NWP-V.json.gz',
+   'DATA'),
+  ('pdfminer\\cmap\\UniKS-UTF16-H.json.gz',
+   'd:\\COLEGIOS\\FE Y ALEGRIA 27 SANTA LUCIA\\DOCUMENTOS IE\\ACTAS\\SISTEMA '
+   'DE GESTION DE '
+   'ACTAS\\Sistema-de-Gestion-de-Actas---Fe-y-Alegria-27\\.venv\\Lib\\site-packages\\pdfminer\\cmap\\UniKS-UTF16-H.json.gz',
+   'DATA'),
+  ('pdfminer\\cmap\\GBKp-EUC-V.json.gz',
+   'd:\\COLEGIOS\\FE Y ALEGRIA 27 SANTA LUCIA\\DOCUMENTOS IE\\ACTAS\\SISTEMA '
+   'DE GESTION DE '
+   'ACTAS\\Sistema-de-Gestion-de-Actas---Fe-y-Alegria-27\\.venv\\Lib\\site-packages\\pdfminer\\cmap\\GBKp-EUC-V.json.gz',
+   'DATA'),
+  ('pdfminer\\cmap\\Ext-V.json.gz',
+   'd:\\COLEGIOS\\FE Y ALEGRIA 27 SANTA LUCIA\\DOCUMENTOS IE\\ACTAS\\SISTEMA '
+   'DE GESTION DE '
+   'ACTAS\\Sistema-de-Gestion-de-Actas---Fe-y-Alegria-27\\.venv\\Lib\\site-packages\\pdfminer\\cmap\\Ext-V.json.gz',
+   'DATA'),
+  ('pdfminer\\cmap\\UniKS-UTF32-H.json.gz',
+   'd:\\COLEGIOS\\FE Y ALEGRIA 27 SANTA LUCIA\\DOCUMENTOS IE\\ACTAS\\SISTEMA '
+   'DE GESTION DE '
+   'ACTAS\\Sistema-de-Gestion-de-Actas---Fe-y-Alegria-27\\.venv\\Lib\\site-packages\\pdfminer\\cmap\\UniKS-UTF32-H.json.gz',
+   'DATA'),
+  ('pdfminer\\cmap\\NWP-H.json.gz',
+   'd:\\COLEGIOS\\FE Y ALEGRIA 27 SANTA LUCIA\\DOCUMENTOS IE\\ACTAS\\SISTEMA '
+   'DE GESTION DE '
+   'ACTAS\\Sistema-de-Gestion-de-Actas---Fe-y-Alegria-27\\.venv\\Lib\\site-packages\\pdfminer\\cmap\\NWP-H.json.gz',
+   'DATA'),
+  ('pdfminer\\cmap\\90ms-RKSJ-V.json.gz',
+   'd:\\COLEGIOS\\FE Y ALEGRIA 27 SANTA LUCIA\\DOCUMENTOS IE\\ACTAS\\SISTEMA '
+   'DE GESTION DE '
+   'ACTAS\\Sistema-de-Gestion-de-Actas---Fe-y-Alegria-27\\.venv\\Lib\\site-packages\\pdfminer\\cmap\\90ms-RKSJ-V.json.gz',
+   'DATA'),
+  ('pdfminer\\cmap\\UniJIS-UTF8-V.json.gz',
+   'd:\\COLEGIOS\\FE Y ALEGRIA 27 SANTA LUCIA\\DOCUMENTOS IE\\ACTAS\\SISTEMA '
+   'DE GESTION DE '
+   'ACTAS\\Sistema-de-Gestion-de-Actas---Fe-y-Alegria-27\\.venv\\Lib\\site-packages\\pdfminer\\cmap\\UniJIS-UTF8-V.json.gz',
+   'DATA'),
+  ('pdfminer\\cmap\\UniCNS-UTF8-H.json.gz',
+   'd:\\COLEGIOS\\FE Y ALEGRIA 27 SANTA LUCIA\\DOCUMENTOS IE\\ACTAS\\SISTEMA '
+   'DE GESTION DE '
+   'ACTAS\\Sistema-de-Gestion-de-Actas---Fe-y-Alegria-27\\.venv\\Lib\\site-packages\\pdfminer\\cmap\\UniCNS-UTF8-H.json.gz',
+   'DATA'),
+  ('pdfminer\\cmap\\UniJIS-UTF32-V.json.gz',
+   'd:\\COLEGIOS\\FE Y ALEGRIA 27 SANTA LUCIA\\DOCUMENTOS IE\\ACTAS\\SISTEMA '
+   'DE GESTION DE '
+   'ACTAS\\Sistema-de-Gestion-de-Actas---Fe-y-Alegria-27\\.venv\\Lib\\site-packages\\pdfminer\\cmap\\UniJIS-UTF32-V.json.gz',
+   'DATA'),
+  ('pdfminer\\cmap\\78-EUC-V.json.gz',
+   'd:\\COLEGIOS\\FE Y ALEGRIA 27 SANTA LUCIA\\DOCUMENTOS IE\\ACTAS\\SISTEMA '
+   'DE GESTION DE '
+   'ACTAS\\Sistema-de-Gestion-de-Actas---Fe-y-Alegria-27\\.venv\\Lib\\site-packages\\pdfminer\\cmap\\78-EUC-V.json.gz',
+   'DATA'),
+  ('pdfminer\\cmap\\HKm314-B5-H.json.gz',
+   'd:\\COLEGIOS\\FE Y ALEGRIA 27 SANTA LUCIA\\DOCUMENTOS IE\\ACTAS\\SISTEMA '
+   'DE GESTION DE '
+   'ACTAS\\Sistema-de-Gestion-de-Actas---Fe-y-Alegria-27\\.venv\\Lib\\site-packages\\pdfminer\\cmap\\HKm314-B5-H.json.gz',
+   'DATA'),
+  ('pdfminer\\cmap\\UniKS-UTF8-V.json.gz',
+   'd:\\COLEGIOS\\FE Y ALEGRIA 27 SANTA LUCIA\\DOCUMENTOS IE\\ACTAS\\SISTEMA '
+   'DE GESTION DE '
+   'ACTAS\\Sistema-de-Gestion-de-Actas---Fe-y-Alegria-27\\.venv\\Lib\\site-packages\\pdfminer\\cmap\\UniKS-UTF8-V.json.gz',
+   'DATA'),
+  ('pdfminer\\cmap\\WP-Symbol-H.json.gz',
+   'd:\\COLEGIOS\\FE Y ALEGRIA 27 SANTA LUCIA\\DOCUMENTOS IE\\ACTAS\\SISTEMA '
+   'DE GESTION DE '
+   'ACTAS\\Sistema-de-Gestion-de-Actas---Fe-y-Alegria-27\\.venv\\Lib\\site-packages\\pdfminer\\cmap\\WP-Symbol-H.json.gz',
+   'DATA'),
+  ('pdfminer\\cmap\\78-EUC-H.json.gz',
+   'd:\\COLEGIOS\\FE Y ALEGRIA 27 SANTA LUCIA\\DOCUMENTOS IE\\ACTAS\\SISTEMA '
+   'DE GESTION DE '
+   'ACTAS\\Sistema-de-Gestion-de-Actas---Fe-y-Alegria-27\\.venv\\Lib\\site-packages\\pdfminer\\cmap\\78-EUC-H.json.gz',
+   'DATA'),
+  ('pdfminer\\cmap\\H.json.gz',
+   'd:\\COLEGIOS\\FE Y ALEGRIA 27 SANTA LUCIA\\DOCUMENTOS IE\\ACTAS\\SISTEMA '
+   'DE GESTION DE '
+   'ACTAS\\Sistema-de-Gestion-de-Actas---Fe-y-Alegria-27\\.venv\\Lib\\site-packages\\pdfminer\\cmap\\H.json.gz',
+   'DATA'),
+  ('pdfminer\\cmap\\UniKS-UTF32-V.json.gz',
+   'd:\\COLEGIOS\\FE Y ALEGRIA 27 SANTA LUCIA\\DOCUMENTOS IE\\ACTAS\\SISTEMA '
+   'DE GESTION DE '
+   'ACTAS\\Sistema-de-Gestion-de-Actas---Fe-y-Alegria-27\\.venv\\Lib\\site-packages\\pdfminer\\cmap\\UniKS-UTF32-V.json.gz',
+   'DATA'),
+  ('pdfminer\\cmap\\UniJIS2004-UTF8-V.json.gz',
+   'd:\\COLEGIOS\\FE Y ALEGRIA 27 SANTA LUCIA\\DOCUMENTOS IE\\ACTAS\\SISTEMA '
+   'DE GESTION DE '
+   'ACTAS\\Sistema-de-Gestion-de-Actas---Fe-y-Alegria-27\\.venv\\Lib\\site-packages\\pdfminer\\cmap\\UniJIS2004-UTF8-V.json.gz',
+   'DATA'),
+  ('pdfminer\\cmap\\ETenms-B5-H.json.gz',
+   'd:\\COLEGIOS\\FE Y ALEGRIA 27 SANTA LUCIA\\DOCUMENTOS IE\\ACTAS\\SISTEMA '
+   'DE GESTION DE '
+   'ACTAS\\Sistema-de-Gestion-de-Actas---Fe-y-Alegria-27\\.venv\\Lib\\site-packages\\pdfminer\\cmap\\ETenms-B5-H.json.gz',
+   'DATA'),
+  ('pdfminer\\cmap\\KSCpc-EUC-V.json.gz',
+   'd:\\COLEGIOS\\FE Y ALEGRIA 27 SANTA LUCIA\\DOCUMENTOS IE\\ACTAS\\SISTEMA '
+   'DE GESTION DE '
+   'ACTAS\\Sistema-de-Gestion-de-Actas---Fe-y-Alegria-27\\.venv\\Lib\\site-packages\\pdfminer\\cmap\\KSCpc-EUC-V.json.gz',
+   'DATA'),
+  ('pdfminer\\cmap\\UniJIS-UCS2-V.json.gz',
+   'd:\\COLEGIOS\\FE Y ALEGRIA 27 SANTA LUCIA\\DOCUMENTOS IE\\ACTAS\\SISTEMA '
+   'DE GESTION DE '
+   'ACTAS\\Sistema-de-Gestion-de-Actas---Fe-y-Alegria-27\\.venv\\Lib\\site-packages\\pdfminer\\cmap\\UniJIS-UCS2-V.json.gz',
+   'DATA'),
+  ('pdfminer\\cmap\\HKdlb-B5-H.json.gz',
+   'd:\\COLEGIOS\\FE Y ALEGRIA 27 SANTA LUCIA\\DOCUMENTOS IE\\ACTAS\\SISTEMA '
+   'DE GESTION DE '
+   'ACTAS\\Sistema-de-Gestion-de-Actas---Fe-y-Alegria-27\\.venv\\Lib\\site-packages\\pdfminer\\cmap\\HKdlb-B5-H.json.gz',
+   'DATA'),
+  ('pdfminer\\cmap\\UniCNS-UTF16-H.json.gz',
+   'd:\\COLEGIOS\\FE Y ALEGRIA 27 SANTA LUCIA\\DOCUMENTOS IE\\ACTAS\\SISTEMA '
+   'DE GESTION DE '
+   'ACTAS\\Sistema-de-Gestion-de-Actas---Fe-y-Alegria-27\\.venv\\Lib\\site-packages\\pdfminer\\cmap\\UniCNS-UTF16-H.json.gz',
+   'DATA'),
+  ('pdfminer\\cmap\\V.json.gz',
+   'd:\\COLEGIOS\\FE Y ALEGRIA 27 SANTA LUCIA\\DOCUMENTOS IE\\ACTAS\\SISTEMA '
+   'DE GESTION DE '
+   'ACTAS\\Sistema-de-Gestion-de-Actas---Fe-y-Alegria-27\\.venv\\Lib\\site-packages\\pdfminer\\cmap\\V.json.gz',
+   'DATA'),
+  ('pdfminer\\cmap\\CNS-EUC-V.json.gz',
+   'd:\\COLEGIOS\\FE Y ALEGRIA 27 SANTA LUCIA\\DOCUMENTOS IE\\ACTAS\\SISTEMA '
+   'DE GESTION DE '
+   'ACTAS\\Sistema-de-Gestion-de-Actas---Fe-y-Alegria-27\\.venv\\Lib\\site-packages\\pdfminer\\cmap\\CNS-EUC-V.json.gz',
+   'DATA'),
+  ('pdfminer\\cmap\\Ext-RKSJ-V.json.gz',
+   'd:\\COLEGIOS\\FE Y ALEGRIA 27 SANTA LUCIA\\DOCUMENTOS IE\\ACTAS\\SISTEMA '
+   'DE GESTION DE '
+   'ACTAS\\Sistema-de-Gestion-de-Actas---Fe-y-Alegria-27\\.venv\\Lib\\site-packages\\pdfminer\\cmap\\Ext-RKSJ-V.json.gz',
+   'DATA'),
+  ('pdfminer\\cmap\\ETHK-B5-H.json.gz',
+   'd:\\COLEGIOS\\FE Y ALEGRIA 27 SANTA LUCIA\\DOCUMENTOS IE\\ACTAS\\SISTEMA '
+   'DE GESTION DE '
+   'ACTAS\\Sistema-de-Gestion-de-Actas---Fe-y-Alegria-27\\.venv\\Lib\\site-packages\\pdfminer\\cmap\\ETHK-B5-H.json.gz',
+   'DATA'),
+  ('pdfminer\\cmap\\GB-V.json.gz',
+   'd:\\COLEGIOS\\FE Y ALEGRIA 27 SANTA LUCIA\\DOCUMENTOS IE\\ACTAS\\SISTEMA '
+   'DE GESTION DE '
+   'ACTAS\\Sistema-de-Gestion-de-Actas---Fe-y-Alegria-27\\.venv\\Lib\\site-packages\\pdfminer\\cmap\\GB-V.json.gz',
+   'DATA'),
+  ('pdfminer\\cmap\\to-unicode-Adobe-CNS1.json.gz',
+   'd:\\COLEGIOS\\FE Y ALEGRIA 27 SANTA LUCIA\\DOCUMENTOS IE\\ACTAS\\SISTEMA '
+   'DE GESTION DE '
+   'ACTAS\\Sistema-de-Gestion-de-Actas---Fe-y-Alegria-27\\.venv\\Lib\\site-packages\\pdfminer\\cmap\\to-unicode-Adobe-CNS1.json.gz',
+   'DATA'),
+  ('pdfminer\\cmap\\UniJIS-UCS2-H.json.gz',
+   'd:\\COLEGIOS\\FE Y ALEGRIA 27 SANTA LUCIA\\DOCUMENTOS IE\\ACTAS\\SISTEMA '
+   'DE GESTION DE '
+   'ACTAS\\Sistema-de-Gestion-de-Actas---Fe-y-Alegria-27\\.venv\\Lib\\site-packages\\pdfminer\\cmap\\UniJIS-UCS2-H.json.gz',
+   'DATA'),
+  ('pdfminer\\cmap\\UniGB-UTF8-H.json.gz',
+   'd:\\COLEGIOS\\FE Y ALEGRIA 27 SANTA LUCIA\\DOCUMENTOS IE\\ACTAS\\SISTEMA '
+   'DE GESTION DE '
+   'ACTAS\\Sistema-de-Gestion-de-Actas---Fe-y-Alegria-27\\.venv\\Lib\\site-packages\\pdfminer\\cmap\\UniGB-UTF8-H.json.gz',
+   'DATA'),
+  ('pdfminer\\cmap\\to-unicode-Adobe-GB1.json.gz',
+   'd:\\COLEGIOS\\FE Y ALEGRIA 27 SANTA LUCIA\\DOCUMENTOS IE\\ACTAS\\SISTEMA '
+   'DE GESTION DE '
+   'ACTAS\\Sistema-de-Gestion-de-Actas---Fe-y-Alegria-27\\.venv\\Lib\\site-packages\\pdfminer\\cmap\\to-unicode-Adobe-GB1.json.gz',
+   'DATA'),
+  ('pdfminer\\cmap\\KSC-H.json.gz',
+   'd:\\COLEGIOS\\FE Y ALEGRIA 27 SANTA LUCIA\\DOCUMENTOS IE\\ACTAS\\SISTEMA '
+   'DE GESTION DE '
+   'ACTAS\\Sistema-de-Gestion-de-Actas---Fe-y-Alegria-27\\.venv\\Lib\\site-packages\\pdfminer\\cmap\\KSC-H.json.gz',
+   'DATA'),
+  ('pdfminer\\cmap\\KSC-EUC-H.json.gz',
+   'd:\\COLEGIOS\\FE Y ALEGRIA 27 SANTA LUCIA\\DOCUMENTOS IE\\ACTAS\\SISTEMA '
+   'DE GESTION DE '
+   'ACTAS\\Sistema-de-Gestion-de-Actas---Fe-y-Alegria-27\\.venv\\Lib\\site-packages\\pdfminer\\cmap\\KSC-EUC-H.json.gz',
+   'DATA'),
+  ('pdfminer\\cmap\\CNS-EUC-H.json.gz',
+   'd:\\COLEGIOS\\FE Y ALEGRIA 27 SANTA LUCIA\\DOCUMENTOS IE\\ACTAS\\SISTEMA '
+   'DE GESTION DE '
+   'ACTAS\\Sistema-de-Gestion-de-Actas---Fe-y-Alegria-27\\.venv\\Lib\\site-packages\\pdfminer\\cmap\\CNS-EUC-H.json.gz',
+   'DATA'),
+  ('pdfminer\\py.typed',
+   'd:\\COLEGIOS\\FE Y ALEGRIA 27 SANTA LUCIA\\DOCUMENTOS IE\\ACTAS\\SISTEMA '
+   'DE GESTION DE '
+   'ACTAS\\Sistema-de-Gestion-de-Actas---Fe-y-Alegria-27\\.venv\\Lib\\site-packages\\pdfminer\\py.typed',
+   'DATA'),
+  ('pdfminer\\cmap\\UniJISX0213-UTF32-H.json.gz',
+   'd:\\COLEGIOS\\FE Y ALEGRIA 27 SANTA LUCIA\\DOCUMENTOS IE\\ACTAS\\SISTEMA '
+   'DE GESTION DE '
+   'ACTAS\\Sistema-de-Gestion-de-Actas---Fe-y-Alegria-27\\.venv\\Lib\\site-packages\\pdfminer\\cmap\\UniJISX0213-UTF32-H.json.gz',
+   'DATA'),
+  ('pdfminer\\cmap\\83pv-RKSJ-H.json.gz',
+   'd:\\COLEGIOS\\FE Y ALEGRIA 27 SANTA LUCIA\\DOCUMENTOS IE\\ACTAS\\SISTEMA '
+   'DE GESTION DE '
+   'ACTAS\\Sistema-de-Gestion-de-Actas---Fe-y-Alegria-27\\.venv\\Lib\\site-packages\\pdfminer\\cmap\\83pv-RKSJ-H.json.gz',
+   'DATA'),
+  ('pdfminer\\cmap\\UniKS-UCS2-H.json.gz',
+   'd:\\COLEGIOS\\FE Y ALEGRIA 27 SANTA LUCIA\\DOCUMENTOS IE\\ACTAS\\SISTEMA '
+   'DE GESTION DE '
+   'ACTAS\\Sistema-de-Gestion-de-Actas---Fe-y-Alegria-27\\.venv\\Lib\\site-packages\\pdfminer\\cmap\\UniKS-UCS2-H.json.gz',
+   'DATA'),
+  ('pdfminer\\cmap\\ETHK-B5-V.json.gz',
+   'd:\\COLEGIOS\\FE Y ALEGRIA 27 SANTA LUCIA\\DOCUMENTOS IE\\ACTAS\\SISTEMA '
+   'DE GESTION DE '
+   'ACTAS\\Sistema-de-Gestion-de-Actas---Fe-y-Alegria-27\\.venv\\Lib\\site-packages\\pdfminer\\cmap\\ETHK-B5-V.json.gz',
+   'DATA'),
+  ('pdfminer\\cmap\\UniCNS-UTF8-V.json.gz',
+   'd:\\COLEGIOS\\FE Y ALEGRIA 27 SANTA LUCIA\\DOCUMENTOS IE\\ACTAS\\SISTEMA '
+   'DE GESTION DE '
+   'ACTAS\\Sistema-de-Gestion-de-Actas---Fe-y-Alegria-27\\.venv\\Lib\\site-packages\\pdfminer\\cmap\\UniCNS-UTF8-V.json.gz',
+   'DATA'),
+  ('pdfminer\\cmap\\CNS2-V.json.gz',
+   'd:\\COLEGIOS\\FE Y ALEGRIA 27 SANTA LUCIA\\DOCUMENTOS IE\\ACTAS\\SISTEMA '
+   'DE GESTION DE '
+   'ACTAS\\Sistema-de-Gestion-de-Actas---Fe-y-Alegria-27\\.venv\\Lib\\site-packages\\pdfminer\\cmap\\CNS2-V.json.gz',
+   'DATA'),
+  ('pdfminer\\cmap\\UniGB-UCS2-H.json.gz',
+   'd:\\COLEGIOS\\FE Y ALEGRIA 27 SANTA LUCIA\\DOCUMENTOS IE\\ACTAS\\SISTEMA '
+   'DE GESTION DE '
+   'ACTAS\\Sistema-de-Gestion-de-Actas---Fe-y-Alegria-27\\.venv\\Lib\\site-packages\\pdfminer\\cmap\\UniGB-UCS2-H.json.gz',
+   'DATA'),
+  ('pdfminer\\cmap\\78ms-RKSJ-V.json.gz',
+   'd:\\COLEGIOS\\FE Y ALEGRIA 27 SANTA LUCIA\\DOCUMENTOS IE\\ACTAS\\SISTEMA '
+   'DE GESTION DE '
+   'ACTAS\\Sistema-de-Gestion-de-Actas---Fe-y-Alegria-27\\.venv\\Lib\\site-packages\\pdfminer\\cmap\\78ms-RKSJ-V.json.gz',
+   'DATA'),
+  ('pdfminer\\cmap\\Hankaku-V.json.gz',
+   'd:\\COLEGIOS\\FE Y ALEGRIA 27 SANTA LUCIA\\DOCUMENTOS IE\\ACTAS\\SISTEMA '
+   'DE GESTION DE '
+   'ACTAS\\Sistema-de-Gestion-de-Actas---Fe-y-Alegria-27\\.venv\\Lib\\site-packages\\pdfminer\\cmap\\Hankaku-V.json.gz',
+   'DATA'),
+  ('pdfminer\\cmap\\HKm314-B5-V.json.gz',
+   'd:\\COLEGIOS\\FE Y ALEGRIA 27 SANTA LUCIA\\DOCUMENTOS IE\\ACTAS\\SISTEMA '
+   'DE GESTION DE '
+   'ACTAS\\Sistema-de-Gestion-de-Actas---Fe-y-Alegria-27\\.venv\\Lib\\site-packages\\pdfminer\\cmap\\HKm314-B5-V.json.gz',
+   'DATA'),
+  ('pdfminer\\cmap\\KSC-V.json.gz',
+   'd:\\COLEGIOS\\FE Y ALEGRIA 27 SANTA LUCIA\\DOCUMENTOS IE\\ACTAS\\SISTEMA '
+   'DE GESTION DE '
+   'ACTAS\\Sistema-de-Gestion-de-Actas---Fe-y-Alegria-27\\.venv\\Lib\\site-packages\\pdfminer\\cmap\\KSC-V.json.gz',
+   'DATA'),
+  ('pdfminer\\cmap\\78ms-RKSJ-H.json.gz',
+   'd:\\COLEGIOS\\FE Y ALEGRIA 27 SANTA LUCIA\\DOCUMENTOS IE\\ACTAS\\SISTEMA '
+   'DE GESTION DE '
+   'ACTAS\\Sistema-de-Gestion-de-Actas---Fe-y-Alegria-27\\.venv\\Lib\\site-packages\\pdfminer\\cmap\\78ms-RKSJ-H.json.gz',
+   'DATA'),
+  ('pdfminer\\cmap\\ETen-B5-H.json.gz',
+   'd:\\COLEGIOS\\FE Y ALEGRIA 27 SANTA LUCIA\\DOCUMENTOS IE\\ACTAS\\SISTEMA '
+   'DE GESTION DE '
+   'ACTAS\\Sistema-de-Gestion-de-Actas---Fe-y-Alegria-27\\.venv\\Lib\\site-packages\\pdfminer\\cmap\\ETen-B5-H.json.gz',
+   'DATA'),
+  ('pdfminer\\cmap\\HKm471-B5-H.json.gz',
+   'd:\\COLEGIOS\\FE Y ALEGRIA 27 SANTA LUCIA\\DOCUMENTOS IE\\ACTAS\\SISTEMA '
+   'DE GESTION DE '
+   'ACTAS\\Sistema-de-Gestion-de-Actas---Fe-y-Alegria-27\\.venv\\Lib\\site-packages\\pdfminer\\cmap\\HKm471-B5-H.json.gz',
+   'DATA'),
+  ('pdfminer\\cmap\\CNS1-V.json.gz',
+   'd:\\COLEGIOS\\FE Y ALEGRIA 27 SANTA LUCIA\\DOCUMENTOS IE\\ACTAS\\SISTEMA '
+   'DE GESTION DE '
+   'ACTAS\\Sistema-de-Gestion-de-Actas---Fe-y-Alegria-27\\.venv\\Lib\\site-packages\\pdfminer\\cmap\\CNS1-V.json.gz',
+   'DATA'),
+  ('pdfminer\\cmap\\Roman-V.json.gz',
+   'd:\\COLEGIOS\\FE Y ALEGRIA 27 SANTA LUCIA\\DOCUMENTOS IE\\ACTAS\\SISTEMA '
+   'DE GESTION DE '
+   'ACTAS\\Sistema-de-Gestion-de-Actas---Fe-y-Alegria-27\\.venv\\Lib\\site-packages\\pdfminer\\cmap\\Roman-V.json.gz',
+   'DATA'),
+  ('pdfminer\\cmap\\UniCNS-UCS2-H.json.gz',
+   'd:\\COLEGIOS\\FE Y ALEGRIA 27 SANTA LUCIA\\DOCUMENTOS IE\\ACTAS\\SISTEMA '
+   'DE GESTION DE '
+   'ACTAS\\Sistema-de-Gestion-de-Actas---Fe-y-Alegria-27\\.venv\\Lib\\site-packages\\pdfminer\\cmap\\UniCNS-UCS2-H.json.gz',
+   'DATA'),
+  ('pdfminer\\cmap\\Add-RKSJ-V.json.gz',
+   'd:\\COLEGIOS\\FE Y ALEGRIA 27 SANTA LUCIA\\DOCUMENTOS IE\\ACTAS\\SISTEMA '
+   'DE GESTION DE '
+   'ACTAS\\Sistema-de-Gestion-de-Actas---Fe-y-Alegria-27\\.venv\\Lib\\site-packages\\pdfminer\\cmap\\Add-RKSJ-V.json.gz',
+   'DATA'),
+  ('pdfminer\\cmap\\KSC-Johab-H.json.gz',
+   'd:\\COLEGIOS\\FE Y ALEGRIA 27 SANTA LUCIA\\DOCUMENTOS IE\\ACTAS\\SISTEMA '
+   'DE GESTION DE '
+   'ACTAS\\Sistema-de-Gestion-de-Actas---Fe-y-Alegria-27\\.venv\\Lib\\site-packages\\pdfminer\\cmap\\KSC-Johab-H.json.gz',
+   'DATA'),
+  ('pdfminer\\cmap\\90msp-RKSJ-H.json.gz',
+   'd:\\COLEGIOS\\FE Y ALEGRIA 27 SANTA LUCIA\\DOCUMENTOS IE\\ACTAS\\SISTEMA '
+   'DE GESTION DE '
+   'ACTAS\\Sistema-de-Gestion-de-Actas---Fe-y-Alegria-27\\.venv\\Lib\\site-packages\\pdfminer\\cmap\\90msp-RKSJ-H.json.gz',
+   'DATA'),
+  ('pdfminer\\cmap\\KSC-EUC-V.json.gz',
+   'd:\\COLEGIOS\\FE Y ALEGRIA 27 SANTA LUCIA\\DOCUMENTOS IE\\ACTAS\\SISTEMA '
+   'DE GESTION DE '
+   'ACTAS\\Sistema-de-Gestion-de-Actas---Fe-y-Alegria-27\\.venv\\Lib\\site-packages\\pdfminer\\cmap\\KSC-EUC-V.json.gz',
+   'DATA'),
+  ('pdfminer\\cmap\\GBK-EUC-V.json.gz',
+   'd:\\COLEGIOS\\FE Y ALEGRIA 27 SANTA LUCIA\\DOCUMENTOS IE\\ACTAS\\SISTEMA '
+   'DE GESTION DE '
+   'ACTAS\\Sistema-de-Gestion-de-Actas---Fe-y-Alegria-27\\.venv\\Lib\\site-packages\\pdfminer\\cmap\\GBK-EUC-V.json.gz',
+   'DATA'),
+  ('pdfminer\\cmap\\HKgccs-B5-V.json.gz',
+   'd:\\COLEGIOS\\FE Y ALEGRIA 27 SANTA LUCIA\\DOCUMENTOS IE\\ACTAS\\SISTEMA '
+   'DE GESTION DE '
+   'ACTAS\\Sistema-de-Gestion-de-Actas---Fe-y-Alegria-27\\.venv\\Lib\\site-packages\\pdfminer\\cmap\\HKgccs-B5-V.json.gz',
+   'DATA'),
+  ('pdfminer\\cmap\\KSCms-UHC-H.json.gz',
+   'd:\\COLEGIOS\\FE Y ALEGRIA 27 SANTA LUCIA\\DOCUMENTOS IE\\ACTAS\\SISTEMA '
+   'DE GESTION DE '
+   'ACTAS\\Sistema-de-Gestion-de-Actas---Fe-y-Alegria-27\\.venv\\Lib\\site-packages\\pdfminer\\cmap\\KSCms-UHC-H.json.gz',
+   'DATA'),
+  ('pdfminer\\cmap\\GBTpc-EUC-H.json.gz',
+   'd:\\COLEGIOS\\FE Y ALEGRIA 27 SANTA LUCIA\\DOCUMENTOS IE\\ACTAS\\SISTEMA '
+   'DE GESTION DE '
+   'ACTAS\\Sistema-de-Gestion-de-Actas---Fe-y-Alegria-27\\.venv\\Lib\\site-packages\\pdfminer\\cmap\\GBTpc-EUC-H.json.gz',
+   'DATA'),
+  ('pdfminer\\cmap\\78-H.json.gz',
+   'd:\\COLEGIOS\\FE Y ALEGRIA 27 SANTA LUCIA\\DOCUMENTOS IE\\ACTAS\\SISTEMA '
+   'DE GESTION DE '
+   'ACTAS\\Sistema-de-Gestion-de-Actas---Fe-y-Alegria-27\\.venv\\Lib\\site-packages\\pdfminer\\cmap\\78-H.json.gz',
+   'DATA'),
+  ('pdfminer\\cmap\\EUC-H.json.gz',
+   'd:\\COLEGIOS\\FE Y ALEGRIA 27 SANTA LUCIA\\DOCUMENTOS IE\\ACTAS\\SISTEMA '
+   'DE GESTION DE '
+   'ACTAS\\Sistema-de-Gestion-de-Actas---Fe-y-Alegria-27\\.venv\\Lib\\site-packages\\pdfminer\\cmap\\EUC-H.json.gz',
+   'DATA'),
+  ('pdfminer\\cmap\\KSCpc-EUC-H.json.gz',
+   'd:\\COLEGIOS\\FE Y ALEGRIA 27 SANTA LUCIA\\DOCUMENTOS IE\\ACTAS\\SISTEMA '
+   'DE GESTION DE '
+   'ACTAS\\Sistema-de-Gestion-de-Actas---Fe-y-Alegria-27\\.venv\\Lib\\site-packages\\pdfminer\\cmap\\KSCpc-EUC-H.json.gz',
+   'DATA'),
+  ('pdfminer\\cmap\\HKm471-B5-V.json.gz',
+   'd:\\COLEGIOS\\FE Y ALEGRIA 27 SANTA LUCIA\\DOCUMENTOS IE\\ACTAS\\SISTEMA '
+   'DE GESTION DE '
+   'ACTAS\\Sistema-de-Gestion-de-Actas---Fe-y-Alegria-27\\.venv\\Lib\\site-packages\\pdfminer\\cmap\\HKm471-B5-V.json.gz',
+   'DATA'),
+  ('pdfminer\\cmap\\GB-EUC-H.json.gz',
+   'd:\\COLEGIOS\\FE Y ALEGRIA 27 SANTA LUCIA\\DOCUMENTOS IE\\ACTAS\\SISTEMA '
+   'DE GESTION DE '
+   'ACTAS\\Sistema-de-Gestion-de-Actas---Fe-y-Alegria-27\\.venv\\Lib\\site-packages\\pdfminer\\cmap\\GB-EUC-H.json.gz',
+   'DATA'),
+  ('pdfminer\\cmap\\GB-H.json.gz',
+   'd:\\COLEGIOS\\FE Y ALEGRIA 27 SANTA LUCIA\\DOCUMENTOS IE\\ACTAS\\SISTEMA '
+   'DE GESTION DE '
+   'ACTAS\\Sistema-de-Gestion-de-Actas---Fe-y-Alegria-27\\.venv\\Lib\\site-packages\\pdfminer\\cmap\\GB-H.json.gz',
+   'DATA'),
+  ('pdfminer\\cmap\\UniJIS-UCS2-HW-V.json.gz',
+   'd:\\COLEGIOS\\FE Y ALEGRIA 27 SANTA LUCIA\\DOCUMENTOS IE\\ACTAS\\SISTEMA '
+   'DE GESTION DE '
+   'ACTAS\\Sistema-de-Gestion-de-Actas---Fe-y-Alegria-27\\.venv\\Lib\\site-packages\\pdfminer\\cmap\\UniJIS-UCS2-HW-V.json.gz',
+   'DATA'),
+  ('pdfminer\\cmap\\UniJIS2004-UTF16-V.json.gz',
+   'd:\\COLEGIOS\\FE Y ALEGRIA 27 SANTA LUCIA\\DOCUMENTOS IE\\ACTAS\\SISTEMA '
+   'DE GESTION DE '
+   'ACTAS\\Sistema-de-Gestion-de-Actas---Fe-y-Alegria-27\\.venv\\Lib\\site-packages\\pdfminer\\cmap\\UniJIS2004-UTF16-V.json.gz',
+   'DATA'),
+  ('pdfminer\\cmap\\78-V.json.gz',
+   'd:\\COLEGIOS\\FE Y ALEGRIA 27 SANTA LUCIA\\DOCUMENTOS IE\\ACTAS\\SISTEMA '
+   'DE GESTION DE '
+   'ACTAS\\Sistema-de-Gestion-de-Actas---Fe-y-Alegria-27\\.venv\\Lib\\site-packages\\pdfminer\\cmap\\78-V.json.gz',
+   'DATA'),
+  ('pdfminer\\cmap\\GBK2K-V.json.gz',
+   'd:\\COLEGIOS\\FE Y ALEGRIA 27 SANTA LUCIA\\DOCUMENTOS IE\\ACTAS\\SISTEMA '
+   'DE GESTION DE '
+   'ACTAS\\Sistema-de-Gestion-de-Actas---Fe-y-Alegria-27\\.venv\\Lib\\site-packages\\pdfminer\\cmap\\GBK2K-V.json.gz',
+   'DATA'),
+  ('pdfminer\\cmap\\UniJIS-UTF16-H.json.gz',
+   'd:\\COLEGIOS\\FE Y ALEGRIA 27 SANTA LUCIA\\DOCUMENTOS IE\\ACTAS\\SISTEMA '
+   'DE GESTION DE '
+   'ACTAS\\Sistema-de-Gestion-de-Actas---Fe-y-Alegria-27\\.venv\\Lib\\site-packages\\pdfminer\\cmap\\UniJIS-UTF16-H.json.gz',
+   'DATA'),
+  ('pdfminer\\cmap\\README.txt',
+   'd:\\COLEGIOS\\FE Y ALEGRIA 27 SANTA LUCIA\\DOCUMENTOS IE\\ACTAS\\SISTEMA '
+   'DE GESTION DE '
+   'ACTAS\\Sistema-de-Gestion-de-Actas---Fe-y-Alegria-27\\.venv\\Lib\\site-packages\\pdfminer\\cmap\\README.txt',
+   'DATA'),
+  ('pdfminer\\cmap\\EUC-V.json.gz',
+   'd:\\COLEGIOS\\FE Y ALEGRIA 27 SANTA LUCIA\\DOCUMENTOS IE\\ACTAS\\SISTEMA '
+   'DE GESTION DE '
+   'ACTAS\\Sistema-de-Gestion-de-Actas---Fe-y-Alegria-27\\.venv\\Lib\\site-packages\\pdfminer\\cmap\\EUC-V.json.gz',
+   'DATA'),
+  ('pdfminer\\cmap\\UniJIS-UTF32-H.json.gz',
+   'd:\\COLEGIOS\\FE Y ALEGRIA 27 SANTA LUCIA\\DOCUMENTOS IE\\ACTAS\\SISTEMA '
+   'DE GESTION DE '
+   'ACTAS\\Sistema-de-Gestion-de-Actas---Fe-y-Alegria-27\\.venv\\Lib\\site-packages\\pdfminer\\cmap\\UniJIS-UTF32-H.json.gz',
+   'DATA'),
+  ('pdfminer\\cmap\\UniCNS-UTF32-H.json.gz',
+   'd:\\COLEGIOS\\FE Y ALEGRIA 27 SANTA LUCIA\\DOCUMENTOS IE\\ACTAS\\SISTEMA '
+   'DE GESTION DE '
+   'ACTAS\\Sistema-de-Gestion-de-Actas---Fe-y-Alegria-27\\.venv\\Lib\\site-packages\\pdfminer\\cmap\\UniCNS-UTF32-H.json.gz',
+   'DATA'),
+  ('pdfminer\\cmap\\to-unicode-Adobe-Korea1.json.gz',
+   'd:\\COLEGIOS\\FE Y ALEGRIA 27 SANTA LUCIA\\DOCUMENTOS IE\\ACTAS\\SISTEMA '
+   'DE GESTION DE '
+   'ACTAS\\Sistema-de-Gestion-de-Actas---Fe-y-Alegria-27\\.venv\\Lib\\site-packages\\pdfminer\\cmap\\to-unicode-Adobe-Korea1.json.gz',
+   'DATA'),
+  ('pdfminer\\cmap\\UniJIS-UTF16-V.json.gz',
+   'd:\\COLEGIOS\\FE Y ALEGRIA 27 SANTA LUCIA\\DOCUMENTOS IE\\ACTAS\\SISTEMA '
+   'DE GESTION DE '
+   'ACTAS\\Sistema-de-Gestion-de-Actas---Fe-y-Alegria-27\\.venv\\Lib\\site-packages\\pdfminer\\cmap\\UniJIS-UTF16-V.json.gz',
+   'DATA'),
+  ('pdfminer\\cmap\\Hiragana-H.json.gz',
+   'd:\\COLEGIOS\\FE Y ALEGRIA 27 SANTA LUCIA\\DOCUMENTOS IE\\ACTAS\\SISTEMA '
+   'DE GESTION DE '
+   'ACTAS\\Sistema-de-Gestion-de-Actas---Fe-y-Alegria-27\\.venv\\Lib\\site-packages\\pdfminer\\cmap\\Hiragana-H.json.gz',
+   'DATA'),
+  ('pdfminer\\cmap\\B5-H.json.gz',
+   'd:\\COLEGIOS\\FE Y ALEGRIA 27 SANTA LUCIA\\DOCUMENTOS IE\\ACTAS\\SISTEMA '
+   'DE GESTION DE '
+   'ACTAS\\Sistema-de-Gestion-de-Actas---Fe-y-Alegria-27\\.venv\\Lib\\site-packages\\pdfminer\\cmap\\B5-H.json.gz',
+   'DATA'),
+  ('pdfminer\\cmap\\GBK2K-H.json.gz',
+   'd:\\COLEGIOS\\FE Y ALEGRIA 27 SANTA LUCIA\\DOCUMENTOS IE\\ACTAS\\SISTEMA '
+   'DE GESTION DE '
+   'ACTAS\\Sistema-de-Gestion-de-Actas---Fe-y-Alegria-27\\.venv\\Lib\\site-packages\\pdfminer\\cmap\\GBK2K-H.json.gz',
+   'DATA'),
+  ('pdfminer\\cmap\\Add-H.json.gz',
+   'd:\\COLEGIOS\\FE Y ALEGRIA 27 SANTA LUCIA\\DOCUMENTOS IE\\ACTAS\\SISTEMA '
+   'DE GESTION DE '
+   'ACTAS\\Sistema-de-Gestion-de-Actas---Fe-y-Alegria-27\\.venv\\Lib\\site-packages\\pdfminer\\cmap\\Add-H.json.gz',
+   'DATA'),
+  ('pdfminer\\cmap\\KSCms-UHC-HW-H.json.gz',
+   'd:\\COLEGIOS\\FE Y ALEGRIA 27 SANTA LUCIA\\DOCUMENTOS IE\\ACTAS\\SISTEMA '
+   'DE GESTION DE '
+   'ACTAS\\Sistema-de-Gestion-de-Actas---Fe-y-Alegria-27\\.venv\\Lib\\site-packages\\pdfminer\\cmap\\KSCms-UHC-HW-H.json.gz',
+   'DATA'),
+  ('pdfminer\\cmap\\GB-EUC-V.json.gz',
+   'd:\\COLEGIOS\\FE Y ALEGRIA 27 SANTA LUCIA\\DOCUMENTOS IE\\ACTAS\\SISTEMA '
+   'DE GESTION DE '
+   'ACTAS\\Sistema-de-Gestion-de-Actas---Fe-y-Alegria-27\\.venv\\Lib\\site-packages\\pdfminer\\cmap\\GB-EUC-V.json.gz',
+   'DATA'),
+  ('pdfminer\\cmap\\78-RKSJ-H.json.gz',
+   'd:\\COLEGIOS\\FE Y ALEGRIA 27 SANTA LUCIA\\DOCUMENTOS IE\\ACTAS\\SISTEMA '
+   'DE GESTION DE '
+   'ACTAS\\Sistema-de-Gestion-de-Actas---Fe-y-Alegria-27\\.venv\\Lib\\site-packages\\pdfminer\\cmap\\78-RKSJ-H.json.gz',
+   'DATA'),
+  ('pdfminer\\cmap\\UniJIS2004-UTF32-H.json.gz',
+   'd:\\COLEGIOS\\FE Y ALEGRIA 27 SANTA LUCIA\\DOCUMENTOS IE\\ACTAS\\SISTEMA '
+   'DE GESTION DE '
+   'ACTAS\\Sistema-de-Gestion-de-Actas---Fe-y-Alegria-27\\.venv\\Lib\\site-packages\\pdfminer\\cmap\\UniJIS2004-UTF32-H.json.gz',
+   'DATA'),
+  ('pdfminer\\cmap\\UniGB-UTF32-V.json.gz',
+   'd:\\COLEGIOS\\FE Y ALEGRIA 27 SANTA LUCIA\\DOCUMENTOS IE\\ACTAS\\SISTEMA '
+   'DE GESTION DE '
+   'ACTAS\\Sistema-de-Gestion-de-Actas---Fe-y-Alegria-27\\.venv\\Lib\\site-packages\\pdfminer\\cmap\\UniGB-UTF32-V.json.gz',
+   'DATA'),
+  ('pdfminer\\cmap\\UniJIS2004-UTF16-H.json.gz',
+   'd:\\COLEGIOS\\FE Y ALEGRIA 27 SANTA LUCIA\\DOCUMENTOS IE\\ACTAS\\SISTEMA '
+   'DE GESTION DE '
+   'ACTAS\\Sistema-de-Gestion-de-Actas---Fe-y-Alegria-27\\.venv\\Lib\\site-packages\\pdfminer\\cmap\\UniJIS2004-UTF16-H.json.gz',
+   'DATA'),
+  ('pdfminer\\cmap\\UniGB-UCS2-V.json.gz',
+   'd:\\COLEGIOS\\FE Y ALEGRIA 27 SANTA LUCIA\\DOCUMENTOS IE\\ACTAS\\SISTEMA '
+   'DE GESTION DE '
+   'ACTAS\\Sistema-de-Gestion-de-Actas---Fe-y-Alegria-27\\.venv\\Lib\\site-packages\\pdfminer\\cmap\\UniGB-UCS2-V.json.gz',
+   'DATA'),
+  ('pdfminer\\cmap\\UniJIS-UCS2-HW-H.json.gz',
+   'd:\\COLEGIOS\\FE Y ALEGRIA 27 SANTA LUCIA\\DOCUMENTOS IE\\ACTAS\\SISTEMA '
+   'DE GESTION DE '
+   'ACTAS\\Sistema-de-Gestion-de-Actas---Fe-y-Alegria-27\\.venv\\Lib\\site-packages\\pdfminer\\cmap\\UniJIS-UCS2-HW-H.json.gz',
+   'DATA'),
+  ('pdfminer\\cmap\\UniGB-UTF8-V.json.gz',
+   'd:\\COLEGIOS\\FE Y ALEGRIA 27 SANTA LUCIA\\DOCUMENTOS IE\\ACTAS\\SISTEMA '
+   'DE GESTION DE '
+   'ACTAS\\Sistema-de-Gestion-de-Actas---Fe-y-Alegria-27\\.venv\\Lib\\site-packages\\pdfminer\\cmap\\UniGB-UTF8-V.json.gz',
+   'DATA'),
+  ('pdfminer\\cmap\\UniGB-UTF16-H.json.gz',
+   'd:\\COLEGIOS\\FE Y ALEGRIA 27 SANTA LUCIA\\DOCUMENTOS IE\\ACTAS\\SISTEMA '
+   'DE GESTION DE '
+   'ACTAS\\Sistema-de-Gestion-de-Actas---Fe-y-Alegria-27\\.venv\\Lib\\site-packages\\pdfminer\\cmap\\UniGB-UTF16-H.json.gz',
+   'DATA'),
+  ('pdfminer\\cmap\\B5pc-H.json.gz',
+   'd:\\COLEGIOS\\FE Y ALEGRIA 27 SANTA LUCIA\\DOCUMENTOS IE\\ACTAS\\SISTEMA '
+   'DE GESTION DE '
+   'ACTAS\\Sistema-de-Gestion-de-Actas---Fe-y-Alegria-27\\.venv\\Lib\\site-packages\\pdfminer\\cmap\\B5pc-H.json.gz',
+   'DATA'),
+  ('pdfminer\\cmap\\KSC-Johab-V.json.gz',
+   'd:\\COLEGIOS\\FE Y ALEGRIA 27 SANTA LUCIA\\DOCUMENTOS IE\\ACTAS\\SISTEMA '
+   'DE GESTION DE '
+   'ACTAS\\Sistema-de-Gestion-de-Actas---Fe-y-Alegria-27\\.venv\\Lib\\site-packages\\pdfminer\\cmap\\KSC-Johab-V.json.gz',
+   'DATA'),
+  ('pdfminer\\cmap\\GBpc-EUC-V.json.gz',
+   'd:\\COLEGIOS\\FE Y ALEGRIA 27 SANTA LUCIA\\DOCUMENTOS IE\\ACTAS\\SISTEMA '
+   'DE GESTION DE '
+   'ACTAS\\Sistema-de-Gestion-de-Actas---Fe-y-Alegria-27\\.venv\\Lib\\site-packages\\pdfminer\\cmap\\GBpc-EUC-V.json.gz',
+   'DATA'),
+  ('pdfminer\\cmap\\Roman-H.json.gz',
+   'd:\\COLEGIOS\\FE Y ALEGRIA 27 SANTA LUCIA\\DOCUMENTOS IE\\ACTAS\\SISTEMA '
+   'DE GESTION DE '
+   'ACTAS\\Sistema-de-Gestion-de-Actas---Fe-y-Alegria-27\\.venv\\Lib\\site-packages\\pdfminer\\cmap\\Roman-H.json.gz',
+   'DATA'),
+  ('setuptools\\_vendor\\importlib_metadata-8.7.1.dist-info\\WHEEL',
+   'd:\\COLEGIOS\\FE Y ALEGRIA 27 SANTA LUCIA\\DOCUMENTOS IE\\ACTAS\\SISTEMA '
+   'DE GESTION DE '
+   'ACTAS\\Sistema-de-Gestion-de-Actas---Fe-y-Alegria-27\\.venv\\Lib\\site-packages\\setuptools\\_vendor\\importlib_metadata-8.7.1.dist-info\\WHEEL',
+   'DATA'),
+  ('setuptools\\_vendor\\importlib_metadata-8.7.1.dist-info\\METADATA',
+   'd:\\COLEGIOS\\FE Y ALEGRIA 27 SANTA LUCIA\\DOCUMENTOS IE\\ACTAS\\SISTEMA '
+   'DE GESTION DE '
+   'ACTAS\\Sistema-de-Gestion-de-Actas---Fe-y-Alegria-27\\.venv\\Lib\\site-packages\\setuptools\\_vendor\\importlib_metadata-8.7.1.dist-info\\METADATA',
+   'DATA'),
+  ('setuptools\\_vendor\\importlib_metadata-8.7.1.dist-info\\top_level.txt',
+   'd:\\COLEGIOS\\FE Y ALEGRIA 27 SANTA LUCIA\\DOCUMENTOS IE\\ACTAS\\SISTEMA '
+   'DE GESTION DE '
+   'ACTAS\\Sistema-de-Gestion-de-Actas---Fe-y-Alegria-27\\.venv\\Lib\\site-packages\\setuptools\\_vendor\\importlib_metadata-8.7.1.dist-info\\top_level.txt',
+   'DATA'),
+  ('setuptools\\_vendor\\importlib_metadata-8.7.1.dist-info\\INSTALLER',
+   'd:\\COLEGIOS\\FE Y ALEGRIA 27 SANTA LUCIA\\DOCUMENTOS IE\\ACTAS\\SISTEMA '
+   'DE GESTION DE '
+   'ACTAS\\Sistema-de-Gestion-de-Actas---Fe-y-Alegria-27\\.venv\\Lib\\site-packages\\setuptools\\_vendor\\importlib_metadata-8.7.1.dist-info\\INSTALLER',
+   'DATA'),
+  ('setuptools\\_vendor\\importlib_metadata-8.7.1.dist-info\\REQUESTED',
+   'd:\\COLEGIOS\\FE Y ALEGRIA 27 SANTA LUCIA\\DOCUMENTOS IE\\ACTAS\\SISTEMA '
+   'DE GESTION DE '
+   'ACTAS\\Sistema-de-Gestion-de-Actas---Fe-y-Alegria-27\\.venv\\Lib\\site-packages\\setuptools\\_vendor\\importlib_metadata-8.7.1.dist-info\\REQUESTED',
+   'DATA'),
+  ('setuptools\\_vendor\\importlib_metadata-8.7.1.dist-info\\licenses\\LICENSE',
+   'd:\\COLEGIOS\\FE Y ALEGRIA 27 SANTA LUCIA\\DOCUMENTOS IE\\ACTAS\\SISTEMA '
+   'DE GESTION DE '
+   'ACTAS\\Sistema-de-Gestion-de-Actas---Fe-y-Alegria-27\\.venv\\Lib\\site-packages\\setuptools\\_vendor\\importlib_metadata-8.7.1.dist-info\\licenses\\LICENSE',
+   'DATA'),
+  ('setuptools\\_vendor\\importlib_metadata-8.7.1.dist-info\\RECORD',
+   'd:\\COLEGIOS\\FE Y ALEGRIA 27 SANTA LUCIA\\DOCUMENTOS IE\\ACTAS\\SISTEMA '
+   'DE GESTION DE '
+   'ACTAS\\Sistema-de-Gestion-de-Actas---Fe-y-Alegria-27\\.venv\\Lib\\site-packages\\setuptools\\_vendor\\importlib_metadata-8.7.1.dist-info\\RECORD',
+   'DATA'),
+  ('setuptools\\_vendor\\jaraco\\text\\Lorem ipsum.txt',
+   'd:\\COLEGIOS\\FE Y ALEGRIA 27 SANTA LUCIA\\DOCUMENTOS IE\\ACTAS\\SISTEMA '
+   'DE GESTION DE '
+   'ACTAS\\Sistema-de-Gestion-de-Actas---Fe-y-Alegria-27\\.venv\\Lib\\site-packages\\setuptools\\_vendor\\jaraco\\text\\Lorem '
+   'ipsum.txt',
+   'DATA'),
+  ('pydantic-2.12.5.dist-info\\WHEEL',
+   'd:\\COLEGIOS\\FE Y ALEGRIA 27 SANTA LUCIA\\DOCUMENTOS IE\\ACTAS\\SISTEMA '
+   'DE GESTION DE '
+   'ACTAS\\Sistema-de-Gestion-de-Actas---Fe-y-Alegria-27\\.venv\\Lib\\site-packages\\pydantic-2.12.5.dist-info\\WHEEL',
+   'DATA'),
+  ('pdfminer_six-20251230.dist-info\\licenses\\LICENSE',
+   'd:\\COLEGIOS\\FE Y ALEGRIA 27 SANTA LUCIA\\DOCUMENTOS IE\\ACTAS\\SISTEMA '
+   'DE GESTION DE '
+   'ACTAS\\Sistema-de-Gestion-de-Actas---Fe-y-Alegria-27\\.venv\\Lib\\site-packages\\pdfminer_six-20251230.dist-info\\licenses\\LICENSE',
+   'DATA'),
+  ('pydantic-2.12.5.dist-info\\METADATA',
+   'd:\\COLEGIOS\\FE Y ALEGRIA 27 SANTA LUCIA\\DOCUMENTOS IE\\ACTAS\\SISTEMA '
+   'DE GESTION DE '
+   'ACTAS\\Sistema-de-Gestion-de-Actas---Fe-y-Alegria-27\\.venv\\Lib\\site-packages\\pydantic-2.12.5.dist-info\\METADATA',
+   'DATA'),
+  ('click-8.3.1.dist-info\\METADATA',
+   'd:\\COLEGIOS\\FE Y ALEGRIA 27 SANTA LUCIA\\DOCUMENTOS IE\\ACTAS\\SISTEMA '
+   'DE GESTION DE '
+   'ACTAS\\Sistema-de-Gestion-de-Actas---Fe-y-Alegria-27\\.venv\\Lib\\site-packages\\click-8.3.1.dist-info\\METADATA',
+   'DATA'),
+  ('pydantic-2.12.5.dist-info\\RECORD',
+   'd:\\COLEGIOS\\FE Y ALEGRIA 27 SANTA LUCIA\\DOCUMENTOS IE\\ACTAS\\SISTEMA '
+   'DE GESTION DE '
+   'ACTAS\\Sistema-de-Gestion-de-Actas---Fe-y-Alegria-27\\.venv\\Lib\\site-packages\\pydantic-2.12.5.dist-info\\RECORD',
+   'DATA'),
+  ('pydantic-2.12.5.dist-info\\licenses\\LICENSE',
+   'd:\\COLEGIOS\\FE Y ALEGRIA 27 SANTA LUCIA\\DOCUMENTOS IE\\ACTAS\\SISTEMA '
+   'DE GESTION DE '
+   'ACTAS\\Sistema-de-Gestion-de-Actas---Fe-y-Alegria-27\\.venv\\Lib\\site-packages\\pydantic-2.12.5.dist-info\\licenses\\LICENSE',
+   'DATA'),
+  ('pydantic-2.12.5.dist-info\\REQUESTED',
+   'd:\\COLEGIOS\\FE Y ALEGRIA 27 SANTA LUCIA\\DOCUMENTOS IE\\ACTAS\\SISTEMA '
+   'DE GESTION DE '
+   'ACTAS\\Sistema-de-Gestion-de-Actas---Fe-y-Alegria-27\\.venv\\Lib\\site-packages\\pydantic-2.12.5.dist-info\\REQUESTED',
+   'DATA'),
+  ('pdfminer_six-20251230.dist-info\\top_level.txt',
+   'd:\\COLEGIOS\\FE Y ALEGRIA 27 SANTA LUCIA\\DOCUMENTOS IE\\ACTAS\\SISTEMA '
+   'DE GESTION DE '
+   'ACTAS\\Sistema-de-Gestion-de-Actas---Fe-y-Alegria-27\\.venv\\Lib\\site-packages\\pdfminer_six-20251230.dist-info\\top_level.txt',
+   'DATA'),
+  ('pdfminer_six-20251230.dist-info\\WHEEL',
+   'd:\\COLEGIOS\\FE Y ALEGRIA 27 SANTA LUCIA\\DOCUMENTOS IE\\ACTAS\\SISTEMA '
+   'DE GESTION DE '
+   'ACTAS\\Sistema-de-Gestion-de-Actas---Fe-y-Alegria-27\\.venv\\Lib\\site-packages\\pdfminer_six-20251230.dist-info\\WHEEL',
+   'DATA'),
+  ('click-8.3.1.dist-info\\licenses\\LICENSE.txt',
+   'd:\\COLEGIOS\\FE Y ALEGRIA 27 SANTA LUCIA\\DOCUMENTOS IE\\ACTAS\\SISTEMA '
+   'DE GESTION DE '
+   'ACTAS\\Sistema-de-Gestion-de-Actas---Fe-y-Alegria-27\\.venv\\Lib\\site-packages\\click-8.3.1.dist-info\\licenses\\LICENSE.txt',
+   'DATA'),
+  ('click-8.3.1.dist-info\\WHEEL',
+   'd:\\COLEGIOS\\FE Y ALEGRIA 27 SANTA LUCIA\\DOCUMENTOS IE\\ACTAS\\SISTEMA '
+   'DE GESTION DE '
+   'ACTAS\\Sistema-de-Gestion-de-Actas---Fe-y-Alegria-27\\.venv\\Lib\\site-packages\\click-8.3.1.dist-info\\WHEEL',
+   'DATA'),
+  ('pdfminer_six-20251230.dist-info\\RECORD',
+   'd:\\COLEGIOS\\FE Y ALEGRIA 27 SANTA LUCIA\\DOCUMENTOS IE\\ACTAS\\SISTEMA '
+   'DE GESTION DE '
+   'ACTAS\\Sistema-de-Gestion-de-Actas---Fe-y-Alegria-27\\.venv\\Lib\\site-packages\\pdfminer_six-20251230.dist-info\\RECORD',
+   'DATA'),
+  ('pydantic-2.12.5.dist-info\\INSTALLER',
+   'd:\\COLEGIOS\\FE Y ALEGRIA 27 SANTA LUCIA\\DOCUMENTOS IE\\ACTAS\\SISTEMA '
+   'DE GESTION DE '
+   'ACTAS\\Sistema-de-Gestion-de-Actas---Fe-y-Alegria-27\\.venv\\Lib\\site-packages\\pydantic-2.12.5.dist-info\\INSTALLER',
+   'DATA'),
+  ('click-8.3.1.dist-info\\RECORD',
+   'd:\\COLEGIOS\\FE Y ALEGRIA 27 SANTA LUCIA\\DOCUMENTOS IE\\ACTAS\\SISTEMA '
+   'DE GESTION DE '
+   'ACTAS\\Sistema-de-Gestion-de-Actas---Fe-y-Alegria-27\\.venv\\Lib\\site-packages\\click-8.3.1.dist-info\\RECORD',
+   'DATA'),
+  ('pdfminer_six-20251230.dist-info\\INSTALLER',
+   'd:\\COLEGIOS\\FE Y ALEGRIA 27 SANTA LUCIA\\DOCUMENTOS IE\\ACTAS\\SISTEMA '
+   'DE GESTION DE '
+   'ACTAS\\Sistema-de-Gestion-de-Actas---Fe-y-Alegria-27\\.venv\\Lib\\site-packages\\pdfminer_six-20251230.dist-info\\INSTALLER',
+   'DATA'),
+  ('pdfminer_six-20251230.dist-info\\METADATA',
+   'd:\\COLEGIOS\\FE Y ALEGRIA 27 SANTA LUCIA\\DOCUMENTOS IE\\ACTAS\\SISTEMA '
+   'DE GESTION DE '
+   'ACTAS\\Sistema-de-Gestion-de-Actas---Fe-y-Alegria-27\\.venv\\Lib\\site-packages\\pdfminer_six-20251230.dist-info\\METADATA',
+   'DATA'),
+  ('click-8.3.1.dist-info\\INSTALLER',
+   'd:\\COLEGIOS\\FE Y ALEGRIA 27 SANTA LUCIA\\DOCUMENTOS IE\\ACTAS\\SISTEMA '
+   'DE GESTION DE '
+   'ACTAS\\Sistema-de-Gestion-de-Actas---Fe-y-Alegria-27\\.venv\\Lib\\site-packages\\click-8.3.1.dist-info\\INSTALLER',
+   'DATA'),
+  ('base_library.zip',
+   'D:\\COLEGIOS\\FE Y ALEGRIA 27 SANTA LUCIA\\DOCUMENTOS IE\\ACTAS\\SISTEMA '
+   'DE GESTION DE '
+   'ACTAS\\Sistema-de-Gestion-de-Actas---Fe-y-Alegria-27\\build\\main\\base_library.zip',
+   'DATA')],
+ 'python313.dll',
+ False,
+ False,
+ False,
+ [],
+ None,
+ None,
+ None)
